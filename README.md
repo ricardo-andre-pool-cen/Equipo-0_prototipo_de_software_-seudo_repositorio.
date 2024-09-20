@@ -4,7 +4,5 @@ Integrantes:
 Carlos Alberto Espadas Canul
 Luis Gilberto Dzib Pech
 Jaime Armando Osorio Muñoz
-Perla Noemi Canche Uicab )
-
-
-una actividad = 6.25
+Perla Noemi Canche Uicab 
+Jorge Arturo Rangel Soberanis )
