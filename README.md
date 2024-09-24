@@ -13,7 +13,7 @@ Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
 Ricardo Andre Pool Cen | 4
 
-#ESPAÑOL:
+# ESPAÑOL:
 
 ## DESCRIPCION DEL PROCESO:
 
