@@ -31,7 +31,7 @@ Requerimientos de seguridad.
 
 Requerimientos de interfaces externas (Hardware y Software).
 
-•	El software podrá ser utilizado en los sistemas operativos Android, Windows, Linux y iOS.
+•	El software podrá ser utilizado en los sistemas operativos.
 •	La aplicación debe poder utilizarse sin necesidad de instalar ningún software adicional además de un navegador web.
 •	La aplicación debe poder utilizarse con los navegadores web Chrome, Microsoft Edge, Firefox e Internet Explore.
 •	El sistema calculará el impuesto a las ventas por la compra del usuario.
