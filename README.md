@@ -1,7 +1,9 @@
-Lider: Ricardo Andre Pool Cen ;
-Integrantes:
-( Katherine Aolani Ordoñez Pacheco
-Carlos Alberto Espadas Canul
-Luis Gilberto Dzib Pech
-Jaime Armando Osorio Muñoz
-Perla Noemi Canche Uicab )
+### Lider: *Ricardo Andre Pool Cen*
+
+### Integrantes:
+
+- *Luis Gilberto Dzib Pech*
+- *Katherine Aolani Ordoñez Pacheco*
+- *Perla Noemi Canche Uicab*
+- *Jaime Armando Osorio Muñoz*
+- *Carlos Alberto Espadas Canul*
