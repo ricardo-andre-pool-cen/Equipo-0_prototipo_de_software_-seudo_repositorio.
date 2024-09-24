@@ -43,3 +43,39 @@ El sistema contiene muchas funciones instaladas: nombre y descripción del proye
 
 Se pretende que sea utilizado principalmente por los estudiantes de Secundaria, Bachillerato y primeros semestres de una carrera, sin embargo, este software es de carácter universal y puede trabajarse por cualquier persona en cualquier proyecto que el individuo o grupo necesite, el sistema puede ser moldeado en base a lo que el usuario quiere trabajar
 ) );
+
+# INGLES: (
+
+## PROCESS DESCRIPTION: (
+
+### THIS IS HOW TEAM#0 WORKS: (
+
+After a while of reading the rubric for the first deliver, we noticed that every point seemed to need a URL evidence, like if every point were an activity, however, instead of assigning sixteen activities, we took the categories, where there was already each evaluation point for it, to create the activities, it means that we will make a total of five activities por the first deliver, which contain all the characteristics needed in the rubric:
+
+- Act#1_Proyect description.
+- Act#2_Administration.
+- Act#3_Functional requirements.
+- Act#4_Nonfunctional requirements.
+- Act#5_Presentation
+) , (
+### A TOOL AT HAND: CANVA;:
+
+Even when all the content of each activity will be stored in Github files, we are going to be creating this digital boards per actitivy to represent the same in an “activity map”, its just a visually attractful way to deliver the content, its at hand and does not replace redaction in Github documents.
+) , (
+### ¿ASSIGNEMENTS? NOT RIGID:
+
+Due to the high value of contribution of each activities that are body of the main content (Act#3_Functional requirements, Act#4Nonfunctional requirements, Act#5 Presentation), one single member cannot make this activities by his own because he would fall into an overcontribution acording to his assigned points, for instance, the activities must be worked by parts that each member can work, in order to make the charge of them lighter, distribute the contribution points and encourage colaboration.
+
+This way, every member is free to choose which part of the proyect they are working on, but the work they request to incorporate to the main body is going to be always validated, ensuring a coherent redaction in every delivered part that connects all the activity.
+
+) ) ,
+## PROYECT DESCRIPTION: (
+
+### THE SEUDO-REPOSITORY: (
+
+This is a service of individual and group proyect managing, where there are available different tools of universal use, which simulate the main functions for a professional repository, and intends to help students to understand the vitality and practice the storage of a work in a digital organization tool.
+
+The system contains a lot of functions: name and proyect description, leader and members, roles per individual competencies, list of materials, tasks and goals, schedules and dailys, documentation, editing online files with more than one member at time; from where the user is guided to learn to use the work space during an onboarding method, at the same time, he gets taught about the beginning of professional managing of works inside a digital tool for process efectivity.
+
+It is proposed to be used mainly for medium and high school students, however, this software is universal and can be used by any person in any work that the user or group needs, the system can be adapted based on what the user wants to work.
+) );
