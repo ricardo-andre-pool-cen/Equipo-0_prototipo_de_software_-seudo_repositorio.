@@ -1,42 +1,30 @@
-Requisitos no funcionales.
-•	El sistema debe ser capaz de procesar N transacciones por segundo. Esto se medirá por medio de la herramienta X aplicada al “Software Testing” de servicios web.
-•	Toda funcionalidad del sistema y transacción de negocio debe responder al usuario en menos de 5 segundos.
-•	El sistema debe ser capaz de operar adecuadamente con hasta 100.000 usuarios con sesiones concurrentes.
-•	Los datos modificados en la base de datos deben ser actualizados para todos los usuarios que acceden en menos de 2 segundos
-•	Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador de acceso a datos.
-•	El nuevo sistema debe desarrollarse aplicando patrones y recomendaciones de programación que incrementen la seguridad de los datos.
-•	Todos los sistemas deben respaldarse cada 24 horas. Los respaldos deben ser almacenados en una localidad segura ubicada en un edificio distinto al que reside el sistema.
-•	Todas las comunicaciones externas entre servidores de datos, aplicación y cliente del sistema deben estar encriptadas.
-•	Si se identifican ataques de seguridad o brecha del sistema, el mismo no continuará operando hasta ser desbloqueado por un administrador de seguridad.
-•	El sistema no continuará operando si la temperatura externa de la planta es menor a 4 grados Celsius.
-•	El sistema no continuará operando en caso de fuego en la planta. (Ej. Un ascensor, la PC de un x persona).
-•	El tiempo de aprendizaje del sistema por un usuario deberá ser menor a 4 horas.
-•	La tasa de errores cometidos por el usuario deberá ser menor del 1% de las transacciones totales ejecutadas en el sistema.
-•	El sistema debe contar con manuales de usuario estructurados adecuadamente.
+Requisitos no funcionales. 
+
+•	El tiempo de repuesta del sitema deberá ser el menor posible.
+•	El sistema deberá operar adecuadamente con una cantidad de usurios concurrentes considerable.
+• Los datos que ingrese el usuario deberán tener un autoguardado constante. 
+•	El sistema enviará recomendaciones al usuario que incrementen la seguridad de sus datos y cuenta.
+•	Todas las comunicaciones externas deberán ser seguras.
+•	Si se identifican ataques de seguridad, el mismo no continuará operando hasta ser desbloqueado.
+•	El tiempo de comprensión de las funcionalidades del sistema por parte del usuario debe ser la menor posible.
+• El sistema debe ser fácil de usar.
+•	El sistema debe contar con manuales de usuario (tutorial) estructurados adecuadamente.
 •	El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario final.
 •	El sistema debe contar con un módulo de ayuda en línea.
-•	La aplicación web debe poseer un “diseño responsive” a fin de garantizar la adecuada visualización en múltiples computadores personales, dispositivos tableta y teléfonos inteligentes.
+•	La aplicación web se debe funcionar de manera correcta al usuario.
 •	El sistema debe poseer interfaces gráficas bien formadas.
-Disponibilidad del sistema al usuario.
-•	El sistema debe tener una disponibilidad del 99,99% de las veces en que un usuario intente accederlo.
-•	El tiempo para iniciar o reiniciar el sistema no podrá ser mayor a 5 minutos.
-•	La tasa de tiempos de falla del sistema no podrá ser mayor a X% del tiempo de operación total.
-•	El promedio de duración de fallas no podrá ser mayor a una tasa considerada por la ley.
-•	La probabilidad de falla del Sistema no podrá ser mayor a una X tasa.
-Otros requisitos no funcionales.
-•	El sistema será desarrollado para las plataformas PC, IOS, entre otros.
-•	La aplicación debe ser compatible con todas las versiones de Windows, desde Windows 95.
-•	La aplicación deberá consumir menos de X Mb de memoria RAM.
-•	La aplicación no podrá ocupar más de X GB de espacio en disco.
-•	La nueva aplicación debe manejar fuentes del alfabeto en inglés, Idiomas latinos (español, francés, portugués, italiano), arábico y chino.
-•	La interfaz de usuario será implementada para navegadores web únicamente con X cosas definidas por el sistema.
-•	El procedimiento de desarrollo de software a usar debe estar definido explícitamente (en manuales de procedimientos) y debe cumplir con los estándares ISO requeridos.
-•	El proceso de desarrollo se gestionará por medio de una determinada herramienta web para gestionar el correcto desarrollo.
+• El sistema debe tener una clara y correcta disponibilidad al usuario.
+•	El margen de error del sitema debe ser el menor posible.
+•	La arquitectura del sistema debe funcionar rápida y correctamente para diversas plataformas.
+•	La aplicación debe ser compatible con los sistemas operativos requeridos.
+•	La aplicación deberá ejecutarse ocupando la menor memoria posible.
+•	El sistema deberá tener una variedad de idiomas disponibles.
 •	Debe especificarse un plan de recuperación ante desastres para el sistema a ser desarrollado.
-•	Cada dos semanas deberán producirse reportes gerenciales en los cuales se muestre el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
-•	Las pruebas de software se gestionarán con una herramienta de gestión de Software Testing.
-•	Sistemas de datos médicos: El nuevo sistema y sus procedimientos de mantenimiento de datos deben cumplir con las leyes y reglamentos de protección de datos médicos.
-•	El nuevo sistema se acogerá a las reglas de las licencias generales públicas (GNU), es decir será gratuito, código abierto en el que cualquiera podrá cambiar el software, sin patentes y sin garantías.
-•	Las páginas web a ser desarrolladas deben cumplir con la ley de tratamiento en condiciones de igualdad para personas con discapacidad.
-•	El sistema no revelara a sus operadores otros datos personales de los clientes distintos a nombres y números de referencia.
 •	El sistema debe asegurar que los datos estén protegidos del acceso no autorizado.
+• El tiempo de respuesta del sistema debe ser el menor posible y necesario.
+• El lenguaje del sistema deberá ser adecuado éticamente al idioma o país de uso.
+• El sistema limitará el acceso a la información en el sistema a usuraios no autorizados.
+• El sistema respetará el caracter público y privado de la información del usuario.
+• El sistema proporcionará la información del usuario a las autoridades competentes (policia) de ser necesario.
+• El sistema permitirá ajustes gráficos y de orden al usuario.
+• El sistema ofrecerá recursos de estética al usuario.
