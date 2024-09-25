@@ -91,3 +91,95 @@ Al final se decidió trabajar en el software para la Ganadería porque se creyó
 - Domingo 22: se redujeron las actividades de 16 a 5, que descartan los contenidos innecesarios a redactar y comprimen otros que son mejores en ese modo, se reformo la descripcion del proceso y la descripción del proyecto para esta nueva idea.
 
 - Lunes 23:  Se inició la redacción de la propuesta de valor, usuarios y clientes y los requisitos, así como se empezaron a traducir los contenidos de las actividades al ingles, esto aún no se integra al repositorio.
+
+- Martes 24: Casi todos los integrantes se reunieron a la biblioteca para reforzar su conocimiento de como hacer uso de los “requests” para entregar su contribución al proyecto, las dudas fueron aclaradas, se usaron requisitos de otro proyecto externo para tomar una guia de como construir los nuestros, y se construyeron los primeros 16 requisitos que pasaron a evaluacion.
+
+
+# INGLES:
+
+## INDIVIDUAL CONTRIBUTION METRIC: 
+
+In order to measure the individual contribution of every member of the team, we are going to use a method of “contribution points”, where the complete proyect has a value of 100 points, and every member with their work and participation can contribute points to fill that barrel of 100 points
+
+*Under that condition, and with a team of six members, each member must help with sixteen points minimum:*
+
+**6 x 16 = 96**
+
+In order to complete those four last points, we decided to assigne two more points to the leader and one more for two members. So, the participation points division sets in this way, every member must reach their assigned amount:
+
+Ricardo Andre Pool Cen: 18
+Luis Gilberto Dzib Pech: 17
+Katherine Aolani Ordoñez Pacheco: 17
+Perla Noemi Canche Uicab: 16
+Carlos Alberto Espadas Canul: 16
+Jaime Armando Osorio Muñoz: 16
+
+Every activity is going to have its own evaluation rubric, while in Github its going to be posted at the top of the file, in the digital boards its going to be included with the green squares with the name:
+
+There, the members who contributed to the activity and the points they get are going to be registered, every part of the activity in Github is going to be inside some parenthesis that separate the content for it to be appreciable in which parts a member worked on and how much points got, in the digital boards is going to be included in the way of blue notes on the side of the part of the activity:
+
+If any accident prevents a member from contributing to his minimum points, his missing points will be assigned to another member and it will be justified the inequality of the affected member, so the minimum points for each member can change and another board will be posted modified with some changes if an accident reaches to happen.
+
+### CONTRIBUTION METRIC PER ACTIVITY:
+
+ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
+-------- | --------------------- | ------------ | ------------------------------
+#1_Proyect description | 10/100 | Ricardo Andre Pool Cen | 4
+#2_Managment | 5/100 | Ricardo Andre Pool Cen | 5
+#3_Functional Requirements | 30/100 | - | 0
+#4_Nonfunctional Requirements | 30/100 | - | 0
+#5_Presentation | 25/100 | - | 0
+
+### CONTRIBUTION METRIC PER CONTRIBUTOR:
+
+MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
+---------- | ------------ | --------------------------- | ---------------------------------------
+Ricardo Andre Pool Cen | Total=9/100,Individual:9/18 | #1_Project description, #2_Managment | 4, 5
+
+## PROCESS MANAGMENT:
+
+### CAPTAIN’S DAILYS: A simple and honest register about all the work operated along the time before the first deliver.
+
+### August 2024: 
+- Saturday 24: Team fundation.
+- Wednesday 28: Creation of the Github repository
+- Saturday 31, Start of the discussion of ideas: In which areas of social service is software needed;.
+### Septiembre del 2024:
+- Tuesday 03, End of the idea discussion: The first proposals were: a system for organizing the sale of recoverable materials, where the current purchase price of said materials (PET, Copper, etc.) and the sale locations could be listed; a system for organizing an individual's daily tasks (a competitor to Google Calendar); a technology to wirelessly control robots for medical purposes; a reforestation campaign system with metrics; group work organization with a chatbot; software for animal management; and inventory and price control for a bread store.
+
+The first was discarded because we found an application identical to our goals, although from external organizations that are not applied in Yucatan, Mexico, but we decided to look for more options.
+The second one faded away quickly,
+The third one also disappeared,
+The fourth one too,
+The fifth was deemed poorly defined at the time, lacking objectives or sufficient value to work on.
+The sixth became a candidate. 
+The seventh also had a clear idea and became another candidate.
+In the end, it was decided to work on the animal managment software because it was considered necessary for the many people who own private land and still keep their accounts manually or with general-purpose tools.
+
+- Wednesday 04: The first tasks were assigned, and the initial version of the evaluation rubric was created within the team, based on the project rubric, where each point was assigned a task, resulting in 16 tasks being assigned. There was a discussion about how to grade individually, and to avoid a complete separation of the team when assigning tasks and having 'everyone do their part,' it was decided that one task would be worked on at a time, and all team members must join in to complete the task. It was also decided that each member should contribute between 15% and 18% to the project.
+
+- Thursday 05: Redaction of the project description and the first 'pseudo-requirements,' so all members would fully understand the idea to be developed
+
+- Friday 06, Concerns about the idea: The entire program for the month of September was planned with high expectations. If this plan is followed, the project would be ready by September 20, with one task per day. However, concerns arose about rushing the project without researching competing products. Later, we found two applications that did the same thing we intended, but we found that our value proposition would be that our software would cover specific common species handled by farmers in Yucatán, meaning it would be specially made for them. The use of a tool called Canva was also defined to generate the activity documents and to publish each link in the Github repository.
+
+- Monday 09: The individual evaluation rubric was completed, establishing that the project would be divided into 100 points, and each member should complete a fixed number of points by contributing to each tasks, which would be between 16 and 18 points.
+
+- Wednesday 11: The value proposition for our idea was written, and the first documents were created in the Github repository to store links to the Canva virtual boards. Questions arose about how to use Github effectively as a team and how to work on the idea since most of the team was unfamiliar with the subject. The rubric for mandatory contributions was established, detailing the points that each member must fulfill.
+
+- Thursday 12: Due to delays and a better understanding of the importance and magnitude of the requirements, the activity schedule was changed. More tasks were compressed into the days leading up to Friday 20, aiming to finish the project by that date.
+
+- Friday 13: Delays in the activities became more evident. The use of 'branches' was planned to implement the 'pull request' function. Three team members met at the library to understand how to use the system, and a guide was published for the other members. Obligations were established for submitting progress through 'requests.' The first contribution was drafted and submitted for validation through a 'request' for the ‘users and clients’ activity. Each of the 16 tasks was assigned a value towards the project's 100 points.
+
+- Tuesday 17, First control breakdown, crisis of the idea: It became evident that the team could not work on an idea so far removed from their field of expertise. With that, the idea collapsed, and we began searching again. However, it didn't take long as we revisited one of the discarded ideas: 'Group work organization with chatbot.' After debating its strengths and weaknesses, it was reinterpreted as a 'pseudo-repository' that would offer a simpler alternative to a repository, specializing in assignment management. It was decided that advice was needed to resolve the crisis of the idea.
+
+- Wednesday 18: After receiving advice, the new focus of the project was clearly decided: the pseudo-repository aims to help beginners learn how to organize group project tracking using digital tools. Additionally, the tool includes an 'onboarding' style guide for beginners and interactive features. The translation of all activities into English was also considered, the project was about to be restarted.
+
+- Friday 20, Second control breakdown, rebirth: Further advice clarified that the organization of activities was neither correct nor effective. As a result, this aspect was reformed, and the importance of virtual boards was reduced, with all content being drafted directly within the Github documents. Thus, a new project was started almost from scratch on the same day it was expected to be completed two weeks ago, with a more accurate understanding, an idea compatible with the entire team, but less time.
+
+- Sunday 22: The tasks were reduced from 16 to 5, discarding unnecessary content and compressing others that are better suited this way. The process description and the project description were remade for this new idea.
+
+- Monday 23rd: The writing of the value proposition, users and clients, and the requirements began, as well as the translation of the activity content into English. This has not yet been integrated into the repository.
+
+- Thuesday 24: Almost all members reunited at the library to reforce their knowledge  of how to make use of Github requests to deliver their contribution to the project, the concerns were cleared, we used another external project requirements to take a guide of how to build our’s, and we build the first sixteen requirements that went to evaluation.
+
+Enlace al pizarron digital generado para esta actividad: https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor
