@@ -1,0 +1,88 @@
+Requisitos funcionales.
+Requisitos funcionales generales del sistema.
+• El sistema deberá mostrarse de manera correcta y clara al usuario.
+• La arquitectura del sistema deberá tener un correcto despliegue.
+•	El sitema contará con un método de monetización.
+•	El sistema enviará un mensaje cuando se registre alguna de las siguientes transacciones: compra del cliente, anulación, suscripción, emisión de factura a cliente, registro de pago de cliente.
+•	Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
+•	El sistema permitirá aprobar, cambiar o actualizar planes y cronogramas de proyecto.
+•	El proceso de compras en el sistema abarcará los siguientes pasos y transacciones: Ingreso de la requisición, emisión de la solicitud de cotización y emisión de la orden de compra.
+•	Se podrá ver en un apartado del sistema el historial de compras por parte del usuario.
+• El sistema permitirá la edición o manipulación de la información del usuario.
+• El sistema tendrá opciones de privacidad de la información del usuario (visualización pública o privada de su información).
+• El sistema determinará que información del usuario puede ser pública, siendo esta privada en su caso ( como cuenta bancaria, contraseña de correo electrónico, entre otros).
+
+Requisitos legales para pagos u compras integradas.
+•	El campo nombre acepta caracteres alfabéticos únicamente.
+•	El campo dirección acepta caracteres alfabéticos, numéricos y especiales.
+•	El campo país consistirá en una lista de preselección. El país asociado a una dirección debe ser previamente registrado en el sistema.
+•	El campo estado, provincia o departamento consistirá en una lista de preselección. A los usuarios se le presentará únicamente los estados asociados al país seleccionado previamente. El departamento o provincia para seleccionar deberá ser registrado en la funcionalidad correspondiente.
+•	El campo fecha contable acepta únicamente fechas que correspondan con periodos contables que estén abiertos en el sistema.
+•	La pantalla de registro de pago puede imprimir los datos en pantalla a la impresora.
+
+Requisitos funcionales legales o regulatorios.
+
+•	El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados.
+•	La base de datos será implementada con trazas de auditoría.
+•	Las hojas de cálculo aseguraran los datos usando firmas electrónicas.
+•	El sistema permitirá elaborar y emitir el reporte regulatorio X, según los requerimientos establecidos en el reglamento y ley aplicable.
+
+Requerimientos de seguridad.
+
+• Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
+•	El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. 
+•	El sistema enviará una alerta al administrador del sistema cuando ocurra alguno de los siguientes eventos: Registro de nueva cuenta, ingreso al sistema por parte del cliente, 2 o más intentos fallidos en el ingreso de la contraseña de usuario y cambio de contraseña de usuario.
+•	El sistema tendrá un sistema de defensa al detectarse alguna actividad sospechosa. 
+
+Requerimientos de interfaces externas (Hardware y Software).
+
+•	El software podrá ser utilizado en los sistemas operativos.
+•	La aplicación debe poder utilizarse sin necesidad de instalar ningún software adicional además de un navegador web.
+•	La aplicación debe poder utilizarse en los navegadores necesarios.
+•	El sistema calculará el impuesto a las ventas por la compra del usuario.
+•	El sistema enviará un tipo de mensaje de confirmación al usuario después de que haya realizado un pedido con éxito.
+•	Las interfaces del aplicativo móvil deben ser amigables e intuitivas.
+• La implementación de la nueva tecnología implica la capacitación previa de los desarrolladores.
+•	Contar con los mecanismos de seguridad adecuados para la protección de la información. 
+•	La plataforma debe ser un sistema confiable y amigable que permita la comunicación.  
+•	Repositorio de información digitalizada como tablas, registros, bitácoras, etc. Es decir, una memoria documental o notas que permitan tener antecedentes. 
+•	Contar con salidas de información y procesos de consulta que faciliten la obtención de datos y visualizaciones. 
+•	Contar con un sistema de administración de usuarios y de perfiles, incluyendo: o Un administrador de acceso al sistema y de creación de perfiles (internos y externos). o Un administrador de contenidos.  
+•	La plataforma debe ser capaz de exportar información en aplicaciones de Office (Word, Excel) y/o aplicaciones afines. 
+•	El diseño de la plataforma debe ser escalable y reusable para futuras implementaciones. 
+•	Contar con un sistema de alertas acerca del ingreso de casos y/o denuncias; así como alertar sobre su conocimiento y atención. 
+•	Establecer un sistema de comunicación, en el que se permita enviar y recibir mensajes de los usuarios registrados. 
+•	La plataforma permitirá su mantenimiento y actualización de forma accesible.
+•	El sistema proporcionará diferenctes tipos de letras, asi como los diferentes tamaños para su uso.
+•	El sistema tendrá un correcto despliegue.
+Requerimientos funcionales técnicos.
+•	Diseño UX: la empresa debe crear experiencias de usuario únicas, y ser capaz de transformar necesidades de los usuarios en interfaces intuitivas y simples. 
+•	Diseño Web: la empresa debe ser capaz de utilizar un código de programación sencillo y reutilizable para diseñar interfaces de usuario intuitivas, funcionales y estéticas.  
+•	Diseñar y desarrollar interfaces de usuario. 
+•	Incorporar las mejores prácticas de usabilidad. 
+•	Actualización de la plataforma que permita tener acceso a las diferentes versiones.   
+•	Requerimientos para la construcción del código de la plataforma. 
+•	Todo código generado por la Empresa será entregado con licencia de software libre.
+•	La plataforma estará instalada y funcionando en el servidor web proporcionado por el proveedor, de acuerdo con las características solicitadas.
+•	Toda la información cargada al repositorio deberá ser descargable en cualquier momento. 
+•	El sistema beberá tener un adecuado programa de respaldos. 
+•	El sistema deberá tener un correcto programa de mantenimiento.
+•	El sistema o trabajadores deberá tener un lugar físico adecuado. 
+•	El área de trabajo deberá tener acceso restringido para mayor seguridad.
+•	La plataforma debe ser segura, así como el lugar de  trabajo de los empleados.
+
+Excepciones:
+
+• El sistema laborará en un horario de 24 horas, los 7 días de la semana, a excepción de momentos críticos en el sistema.
+• Cuando el sistema se detenga por diversas causas, beberá mostrar al usuario una breve descripción del problema (como: UPS, hubo un error favor de intentar más tarde").
+• Los servicios de mantenimiento y actualización del software deben ser avisados con antelación al usuario (esto excluye los momentos críticos).
+• En caso de que la funcionalidad de la plataforma falle, el/la proveedor/a brindará soporte para arreglar cualquier defecto en diseño o código. 
+•	La plataforma estará disponible durante los períodos de reparación y soporte para arreglar cualquier defecto en diseño o código. 
+•	Se deberán realizar mantenimientos preventivos a la plataforma.
+•	Respaldo y replicación: Una estrategia de seguridad basada en respaldos regulares de los datos y objetos. 
+•	Cifrado de los datos: dar la posibilidad de cifrado los datos donde sea posible. 
+•	Las soluciones de almacenamiento de la nube deberán estar diseñadas para entregar almacenamiento seguro, escalable y duradero a la plataforma..
+• EL sistema cerrará la sesión del usuario si no se realiza una acción en un periodo determinado.
+• El sistema deberá tener un respaldado de emergencia en caso de que el primero sea inutilizable.
+• Los usuarios no podrán modificar el diseño o código el sistema.
+• Al detectar un problema de sguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.

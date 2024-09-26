@@ -12,3 +12,34 @@ RNF_005: Cada dia, un registro de todos los cambios realizados en un repositorio
 RNF_006: No se pueden eliminar roles sin haberse revocado de todos sus integrantes.
 RNF_007: No se puede modificar la linea del tiempo del repositorio.
 RNF_008: El programa mantiene dos respaldos de la informacion de los usuarios.
+
+Requisitos no funcionales. 
+
+•	El tiempo de repuesta del sitema deberá ser el menor posible.
+•	El sistema deberá operar adecuadamente con una cantidad de usurios concurrentes considerable.
+• Los datos que ingrese el usuario deberán tener un autoguardado constante. 
+•	El sistema enviará recomendaciones al usuario que incrementen la seguridad de sus datos y cuenta.
+•	Todas las comunicaciones externas deberán ser seguras.
+•	Si se identifican ataques de seguridad, el mismo no continuará operando hasta ser desbloqueado.
+•	El tiempo de comprensión de las funcionalidades del sistema por parte del usuario debe ser la menor posible.
+• El sistema debe ser fácil de usar.
+•	El sistema debe contar con manuales de usuario (tutorial) estructurados adecuadamente.
+•	El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario final.
+•	El sistema debe contar con un módulo de ayuda en línea.
+•	La aplicación web se debe funcionar de manera correcta al usuario.
+•	El sistema debe poseer interfaces gráficas bien formadas.
+• El sistema debe tener una clara y correcta disponibilidad al usuario.
+•	El margen de error del sitema debe ser el menor posible.
+•	La arquitectura del sistema debe funcionar rápida y correctamente para diversas plataformas.
+•	La aplicación debe ser compatible con los sistemas operativos requeridos.
+•	La aplicación deberá ejecutarse ocupando la menor memoria posible.
+•	El sistema deberá tener una variedad de idiomas disponibles.
+•	Debe especificarse un plan de recuperación ante desastres para el sistema a ser desarrollado.
+•	El sistema debe asegurar que los datos estén protegidos del acceso no autorizado.
+• El tiempo de respuesta del sistema debe ser el menor posible y necesario.
+• El lenguaje del sistema deberá ser adecuado éticamente al idioma o país de uso.
+• El sistema limitará el acceso a la información en el sistema a usuraios no autorizados.
+• El sistema respetará el caracter público y privado de la información del usuario.
+• El sistema proporcionará la información del usuario a las autoridades competentes (policia) de ser necesario.
+• El sistema permitirá ajustes gráficos y de orden al usuario.
+• El sistema ofrecerá recursos de estética al usuario.
