@@ -42,7 +42,6 @@ Requerimientos de interfaces externas (Hardware y Software).
 •	El sistema calculará el impuesto a las ventas por la compra del usuario.
 •	El sistema enviará un tipo de mensaje de confirmación al usuario después de que haya realizado un pedido con éxito.
 •	Las interfaces del aplicativo móvil deben ser amigables e intuitivas.
-• La implementación de la nueva tecnología implica la capacitación previa de los desarrolladores.
 •	Contar con los mecanismos de seguridad adecuados para la protección de la información. 
 •	La plataforma debe ser un sistema confiable y amigable que permita la comunicación.  
 •	Repositorio de información digitalizada como tablas, registros, bitácoras, etc. Es decir, una memoria documental o notas que permitan tener antecedentes. 
@@ -85,4 +84,4 @@ Excepciones:
 • EL sistema cerrará la sesión del usuario si no se realiza una acción en un periodo determinado.
 • El sistema deberá tener un respaldado de emergencia en caso de que el primero sea inutilizable.
 • Los usuarios no podrán modificar el diseño o código el sistema.
-• Al detectar un problema de sguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.
+• Al detectar un problema de seguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.
