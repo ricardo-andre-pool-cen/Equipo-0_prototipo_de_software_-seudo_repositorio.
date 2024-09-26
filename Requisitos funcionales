@@ -4,8 +4,6 @@ Requisitos funcionales generales del sistema.
 • La arquitectura del sistema deberá tener un correcto despliegue.
 •	El sitema contará con un método de monetización.
 •	El sistema enviará un mensaje cuando se registre alguna de las siguientes transacciones: compra del cliente, anulación, suscripción, emisión de factura a cliente, registro de pago de cliente.
-•	Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
-•	El sistema permitirá aprobar, cambiar o actualizar planes y cronogramas de proyecto.
 •	El proceso de compras en el sistema abarcará los siguientes pasos y transacciones: Ingreso de la requisición, emisión de la solicitud de cotización y emisión de la orden de compra.
 •	Se podrá ver en un apartado del sistema el historial de compras por parte del usuario.
 • El sistema permitirá la edición o manipulación de la información del usuario.
@@ -44,8 +42,6 @@ Requerimientos de interfaces externas (Hardware y Software).
 •	Las interfaces del aplicativo móvil deben ser amigables e intuitivas.
 •	Contar con los mecanismos de seguridad adecuados para la protección de la información. 
 •	La plataforma debe ser un sistema confiable y amigable que permita la comunicación.  
-•	Repositorio de información digitalizada como tablas, registros, bitácoras, etc. Es decir, una memoria documental o notas que permitan tener antecedentes. 
-•	Contar con salidas de información y procesos de consulta que faciliten la obtención de datos y visualizaciones. 
 •	Contar con un sistema de administración de usuarios y de perfiles, incluyendo: o Un administrador de acceso al sistema y de creación de perfiles (internos y externos). o Un administrador de contenidos.  
 •	La plataforma debe ser capaz de exportar información en aplicaciones de Office (Word, Excel) y/o aplicaciones afines. 
 •	El diseño de la plataforma debe ser escalable y reusable para futuras implementaciones. 
@@ -85,3 +81,13 @@ Excepciones:
 • El sistema deberá tener un respaldado de emergencia en caso de que el primero sea inutilizable.
 • Los usuarios no podrán modificar el diseño o código el sistema.
 • Al detectar un problema de seguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.
+
+Nuevos requisitos enfocados al proyecto.
+• El repositorio permitirá guardar información de manera ordenada.
+• El repositorio tendrá opción de eliminar información dentro de este.
+• La información de un repositorio será editable para los mienbros de este.
+• El repositorio puede ser de caracter público o privado.
+• El repositorio deberá contener al menos un miembro/ usuario.
+• El repositorio acepta una cantidad limitada de personas en este.
+• La creación del repositorio implica la creación de una cuenta de usuario.
+• El lider del repsoitorio puede asignar roles.
