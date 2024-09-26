@@ -1,5 +1,5 @@
 Requisitos funcionales.
-Requisitos funcionales generales del sistema.
+
 • El sistema deberá mostrarse de manera correcta y clara al usuario.
 • La arquitectura del sistema deberá tener un correcto despliegue.
 •	El sitema contará con un método de monetización.
@@ -10,7 +10,8 @@ Requisitos funcionales generales del sistema.
 • El sistema tendrá opciones de privacidad de la información del usuario (visualización pública o privada de su información).
 • El sistema determinará que información del usuario puede ser pública, siendo esta privada en su caso ( como cuenta bancaria, contraseña de correo electrónico, entre otros).
 
-Requisitos legales para pagos u compras integradas.
+Requisitos legales para pagos u compras integradas.}
+
 •	El campo nombre acepta caracteres alfabéticos únicamente.
 •	El campo dirección acepta caracteres alfabéticos, numéricos y especiales.
 •	El campo país consistirá en una lista de preselección. El país asociado a una dirección debe ser previamente registrado en el sistema.
@@ -26,14 +27,10 @@ Requisitos funcionales legales o regulatorios.
 •	El sistema permitirá elaborar y emitir el reporte regulatorio X, según los requerimientos establecidos en el reglamento y ley aplicable.
 
 Requerimientos de seguridad.
-
 • Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
 •	El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. 
 •	El sistema enviará una alerta al administrador del sistema cuando ocurra alguno de los siguientes eventos: Registro de nueva cuenta, ingreso al sistema por parte del cliente, 2 o más intentos fallidos en el ingreso de la contraseña de usuario y cambio de contraseña de usuario.
-•	El sistema tendrá un sistema de defensa al detectarse alguna actividad sospechosa. 
-
-Requerimientos de interfaces externas (Hardware y Software).
-
+•	El sistema tendrá un sistema de defensa al detectarse alguna actividad sospechosa.
 •	El software podrá ser utilizado en los sistemas operativos.
 •	La aplicación debe poder utilizarse sin necesidad de instalar ningún software adicional además de un navegador web.
 •	La aplicación debe poder utilizarse en los navegadores necesarios.
@@ -83,11 +80,24 @@ Excepciones:
 • Al detectar un problema de seguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.
 
 Nuevos requisitos enfocados al proyecto.
-• El repositorio permitirá guardar información de manera ordenada.
-• El repositorio tendrá opción de eliminar información dentro de este.
-• La información de un repositorio será editable para los mienbros de este.
-• El repositorio puede ser de caracter público o privado.
-• El repositorio deberá contener al menos un miembro/ usuario.
-• El repositorio acepta una cantidad limitada de personas en este.
-• La creación del repositorio implica la creación de una cuenta de usuario.
-• El lider del repsoitorio puede asignar roles.
+• Los usuarios registrados en el pseudorepositorio pueden ser los miembros de un repositorio.
+• Los miembros del repositorio tendrán una jerarquia, de colaborador a lider del repositorio.
+• Los miembros del repositorio podran escribir y editar la información contenida en el repositorio.
+• Los miembros del repositorio podrán elmiminar información del repositorio en cualquier momento.
+• Los miembros del repositorio tendrán opción de mensajería que permitirá escribir comentarios en el repositorio.
+• Los miembros del repositorio tendrán acceso restringido a las funciones del repositorio según su jerarquía.
+• Las ramas en un repositorio son una fuente de almacenamiento de información para los miembros del repositorio.
+• Las ramas pueden ser específicas para cada mienbro del repositorio o pueden ser generales para todos los miembros. 
+• Las peticiones de revisión es una función que puede hacer el miembro para pedir la revisión de la información contenida en su rama por parte de los miembros de otras ramas dentro del repositorio.
+• El repositorio puede ser de caracter público: la información dentro de este será visible para cualquier persona.
+• El repositorio puede ser de caracter privado: la información dentro del repositorio sólo será visible para los miembros.
+• El lider del repositorio puede elegir si el repositorio es de caracter público o privado en cualquier momento.
+• El repositorio acepta una cantidad de 10 usuario como máximo en un repositorio, siendo el mínimo de 1 usuario.
+• El lider de equipo tendrá la opción de agregar asignaciones a los miembros del repositorio.
+• Las asignaciones pueden ser para un grupo de miembros o individuales.
+• Las asignaciones deberán contener nombre y descripción para informar corectamente a los miembros sobre lo que requiere la asignación otorgada.
+• Los miembros de la asignación pueden adjuntar archivos en la asignación.
+• Las asignaciones tienen fecha de inicio y cierre.
+• Las asignaciones guardan la fecha de entrega de cada miembro de la asignación.
+• Las asignaciones clasifican las fechas de entrega en: entregado (se entregó entre el tiempo de incio y cierre) y entregado con retraso (se entregó despúes de la fecha de cierre).
+• El repositorio contiene una línea del tiempo donde se muestran la fechas de inicio, cierre y entrega de las asignaciones.
