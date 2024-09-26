@@ -53,7 +53,7 @@ Se pretende que sea utilizado principalmente por los estudiantes de Secundaria, 
 After a while of reading the rubric for the first deliver, we noticed that every point seemed to need a URL evidence, like if every point were an activity, however, instead of assigning sixteen activities, we took the categories, where there was already each evaluation point for it, to create the activities, it means that we will make a total of five activities por the first deliver, which contain all the characteristics needed in the rubric:
 
 - Act#1_Proyect description.
-- Act#2_Administration.
+- Act#2_Managment.
 - Act#3_Functional requirements.
 - Act#4_Nonfunctional requirements.
 - Act#5_Presentation
