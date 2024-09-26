@@ -1,2 +1,9 @@
-Enlace al pizarron generado para esta actividad:
-https://www.canva.com/design/DAGQdZSTcDY/HYnIcSsqgOUo3Ea6Kvqyig/view?utm_content=DAGQdZSTcDY&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Re
+Requerimientos sin funciones 
+Nuestro pseurepositorio debera poder soportar 5000 solicitudes por segundo.
+Podra soportar un monumento de carga de trabajo
+Los datos deneran estar cifrados o que cuenten con alguna seguridad
+El pseurepositorio debera ser compatible con cualquier navegador Web
+Debera de funcionar en cualquier sistema operativo que se requiere
+Debera de contar con algun plan de recuperación por alguna falla.
+El tiempo de respuesta debe ser adecuado para su funcionamiento
