@@ -12,3 +12,15 @@ RF_005: El rol predeterminado de lider se puede otorgar a otro usuario, modifica
 RF_006: Los roles de un repositorio pueden ser renombrados, cargados con distintos permisos y otorgados o revocados a los integrantes del repositorio.
 RF_007: Los roles con el permiso otorgado pueden añadir tareas en un repositorio.
 RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pagina configurables.
+
+Requerimientos Funcionales
+Los usuario podran crear su usuario y contraseña para acceder a su cuEnta Personal.
+Los usuario podran recuperar su contraseña mediante un proceso seguro.
+El pseurepositorio cuenta con una barra de busqueda para buscar el archivo o repositorio que se requiera.
+Los usuarios podran Crear, Eliminar y actualizar cualquier Repositorio.
+Los usuarios podran invitar a otros usuarios a colaborar con el proyecto y gestionar los permisos de acceso.
+Los usuarios podran acceder a un historial de cambios y revertir algun proceso que se requiera.
+El pseudorepositorio cuanta con una interfaz amigable.
+El pseudorepositorio debe de mantener los datos seguros y eficientes.
+El pseudorepositoro contara con un sistema de notificaciones para avisar a los usuarios, estos podran  ser enviados por Gmail o SMS.
+El usuario podra exportar diferentes formartos (PDF. EXCEL, ETC).

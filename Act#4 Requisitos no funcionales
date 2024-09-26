@@ -12,3 +12,13 @@ RNF_005: Cada dia, un registro de todos los cambios realizados en un repositorio
 RNF_006: No se pueden eliminar roles sin haberse revocado de todos sus integrantes.
 RNF_007: No se puede modificar la linea del tiempo del repositorio.
 RNF_008: El programa mantiene dos respaldos de la informacion de los usuarios.
+
+Re
+Requerimientos sin funciones 
+Nuestro pseurepositorio debera poder soportar 5000 solicitudes por segundo.
+Podra soportar un monumento de carga de trabajo
+Los datos deneran estar cifrados o que cuenten con alguna seguridad
+El pseurepositorio debera ser compatible con cualquier navegador Web
+Debera de funcionar en cualquier sistema operativo que se requiere
+Debera de contar con algun plan de recuperación por alguna falla.
+El tiempo de respuesta debe ser adecuado para su funcionamiento
