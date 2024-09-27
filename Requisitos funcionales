@@ -80,24 +80,27 @@ Excepciones:
 • Al detectar un problema de seguridad, el sistema deberá dejar de funcionar y mandar una alerta al encargado de seguridad.
 
 Nuevos requisitos enfocados al proyecto.
-• Los usuarios registrados en el pseudorepositorio pueden ser los miembros de un repositorio.
-• Los miembros del repositorio tendrán una jerarquia, de colaborador a lider del repositorio.
-• Los miembros del repositorio podran escribir y editar la información contenida en el repositorio.
-• Los miembros del repositorio podrán elmiminar información del repositorio en cualquier momento.
-• Los miembros del repositorio tendrán opción de mensajería que permitirá escribir comentarios en el repositorio.
-• Los miembros del repositorio tendrán acceso restringido a las funciones del repositorio según su jerarquía.
-• Las ramas en un repositorio son una fuente de almacenamiento de información para los miembros del repositorio.
+• Los usuarios pueden solicitar su integración para formar parte de un repositorio.
+• Al momento de crearse, el repositorio crea una jerarquía predeterminada con roles y permisos definidos básicos para los integrantes, totalmente modificable.
+• Los usuarios pueden modificar el nombre y descripción de su pizarrón personal.
+• Los usuarios con los permisos otorgados por un rol asignado pueden modificar otros roles.
+• Los usuarios con los permisos otorgados por un rol asignado pueden modificar el contenido de otros pizarrones personales: añadir, editar, mover o eliminar."
+• El lider del repositorio podrá eliminar cualquier rama, petición de revisión de todos los miembros he incluso el repositorio mismo.
+• Los miembros solo podrán eliminar sus ramas y sus peticiones de revisión personales.
+• Solo los usuarios con el permiso otorgado por un rol asignado podrán cerrar tareas.
+• Solo los usuarios con el permiso otorgado por un rol asignado podrán expulsar a otros integrantes.
+• El repositorio puede contener "ramas" o pizarrones personales para cada uno de los integrantes.
 • Las ramas pueden ser específicas para cada mienbro del repositorio o pueden ser generales para todos los miembros. 
-• Las peticiones de revisión es una función que puede hacer el miembro para pedir la revisión de la información contenida en su rama por parte de los miembros de otras ramas dentro del repositorio.
+• Los usuarios pueden realizar "solicitudes de revisión" para convocar a mas integrantes a revisar el contenido dentro de su pizarrón personal.
 • El repositorio puede ser de caracter público: la información dentro de este será visible para cualquier persona.
 • El repositorio puede ser de caracter privado: la información dentro del repositorio sólo será visible para los miembros.
-• El lider del repositorio puede elegir si el repositorio es de caracter público o privado en cualquier momento.
-• El repositorio acepta una cantidad de 10 usuario como máximo en un repositorio, siendo el mínimo de 1 usuario.
-• El lider de equipo tendrá la opción de agregar asignaciones a los miembros del repositorio.
+• Cualquier miembro con el permiso otorgado por un rol asignado podrá elegir si el repositorio es de caracter público o privado en cualquier momento.
+• El repositorio acepta una cantidad de 10 usuario como máximo en un repositorio.
+• Cualquier usuario con el permiso otorgado por un rol asignado tendrá la opción de agregar asignaciones a los miembros del repositorio.
 • Las asignaciones pueden ser para un grupo de miembros o individuales.
-• Las asignaciones deberán contener nombre y descripción para informar corectamente a los miembros sobre lo que requiere la asignación otorgada.
-• Los miembros de la asignación pueden adjuntar archivos en la asignación.
+• Las asignaciones pueden tener nombre, descripción, archivos adjuntos, fecha de apertura y fecha de entrega.
+• Las asignaciones pueden contener archivos adjuntos que proporcionen los miembros.
 • Las asignaciones tienen fecha de inicio y cierre.
 • Las asignaciones guardan la fecha de entrega de cada miembro de la asignación.
 • Las asignaciones clasifican las fechas de entrega en: entregado (se entregó entre el tiempo de incio y cierre) y entregado con retraso (se entregó despúes de la fecha de cierre).
-• El repositorio contiene una línea del tiempo donde se muestran la fechas de inicio, cierre y entrega de las asignaciones.
+• Las fechas de inicio, cierre y entrega de las asignaciones son desplegadas en la linea de tiempo del repositorio.
