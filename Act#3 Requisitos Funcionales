@@ -1,0 +1,14 @@
+## RUBRICA DE EVALUACION:
+Participantes en esta actividad | Puntos que acreditan
+------------------------------- | --------------------
+
+## REQUISITOS FUNCIONALES, REDACCION DE MANERA CLASICA:
+
+RF_001: Los usuarios deben crear una cuenta individual con una clave de acceso para acceder al programa.
+RF_002: Los usuarios pueden crear repositorios de los cuales se haran lideres.
+RF_003: El repositorio le asigna un rol predeterminado de lider al creador de este, que contiene permisos para modificar todas las caracteristicas del repositorio.
+RF_004: Los roles de un repositorio tienen nombre, descripcion y simbolos configurables.
+RF_005: El rol predeterminado de lider se puede otorgar a otro usuario, modificar o eliminar.
+RF_006: Los roles de un repositorio pueden ser renombrados, cargados con distintos permisos y otorgados o revocados a los integrantes del repositorio.
+RF_007: Los roles con el permiso otorgado pueden añadir tareas en un repositorio.
+RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pagina configurables.
