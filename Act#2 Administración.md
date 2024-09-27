@@ -109,12 +109,12 @@ In order to measure the individual contribution of every member of the team, we 
 
 In order to complete those four last points, we decided to assigne two more points to the leader and one more for two members. So, the participation points division sets in this way, every member must reach their assigned amount:
 
-Ricardo Andre Pool Cen: 18
-Luis Gilberto Dzib Pech: 17
-Katherine Aolani Ordoñez Pacheco: 17
-Perla Noemi Canche Uicab: 16
-Carlos Alberto Espadas Canul: 16
-Jaime Armando Osorio Muñoz: 16
+- Ricardo Andre Pool Cen: 18
+- Luis Gilberto Dzib Pech: 17
+- Katherine Aolani Ordoñez Pacheco: 17
+- Perla Noemi Canche Uicab: 16
+- Carlos Alberto Espadas Canul: 16
+- Jaime Armando Osorio Muñoz: 16
 
 Every activity is going to have its own evaluation rubric, while in Github its going to be posted at the top of the file, in the digital boards its going to be included with the green squares with the name:
 
@@ -136,7 +136,7 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100,Individual:9/18 | #1_Project description, #2_Managment | 4, 5
+Ricardo Andre Pool Cen | Total=9/100, Individual:9/18 | #1_Project description, #2_Managment | 4, 5
 
 ## PROCESS MANAGMENT:
 
