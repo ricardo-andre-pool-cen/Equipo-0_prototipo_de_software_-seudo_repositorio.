@@ -45,7 +45,7 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100,Individual:9/18 | #1_Descripcion del proyecto, #2_Administracion | 4, 5
+Ricardo Andre Pool Cen | Total=9/100, Individual:9/18 | #1_Descripcion del proyecto, #2_Administracion | 4, 5
 
 ## GESTION DEL PROCESO:
 
