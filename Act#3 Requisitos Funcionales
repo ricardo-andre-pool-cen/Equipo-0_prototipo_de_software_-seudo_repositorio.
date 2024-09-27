@@ -45,3 +45,31 @@ El sistema podra soportar archivos como Videos y audios
 Los administradores podran gestionar permisos y usuarios
 El sistema podra soportar dos formas de autenticacion de dos factores para una mayor seguridad.
 
+
+Requerimientos Funcionales Fuera del Repositorio
+El usuario contara con un Unbording para configurar el perfil
+El usuario puede colocar una foto de perfil o Avatar
+El usuario puede colocar los años de experiencia trajando
+El usuario puede colocar en que rama se destaca.
+El usuario puede colocar el lugar donde estudio
+El usuario puede colocar sus Hobbies y Gustos
+El usuario puede colocar su nivel de estudio alcanzado
+El usuario puede colocar su genero
+El usuario puede colocar su edad
+El usuario puede colocar los idiomas que habla.
+El usuario puede colocar sus SkinCare
+El usuario puede colocar sus debilidades
+El usuario puede colocar su pais de origen.
+El usuario puede colocar los lugares donde haya trabajado.
+El sistema por medio del Unbording ayuda al usuario a modificar su perfil
+
+Requerimientos no Funcionales fuera del repositorio
+El sistema 
+
+
+
+El Onbording no se puede omitir 
+
+
+
+
