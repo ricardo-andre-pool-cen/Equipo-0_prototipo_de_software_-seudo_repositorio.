@@ -18,12 +18,12 @@ Para medir la contribucion inidivual de cada integrante del equipo, usaremos un 
 
 Para solventar los 4 puntos faltantes, Decidimos asignarle dos puntos extras al líder y uno extra a dos integrantes. Entonces, la división de puntos de participación queda de esta manera, cada integrante debera cumplir con su cantidad asignada:
 
-Ricardo Andre Pool Cen: 18
-Luis Gilberto Dzib Pech: 17
-Katherine Aolani Ordoñez Pacheco: 17
-Perla Noemi Canche Uicab: 16
-Carlos Alberto Espadas Canul: 16
-Jaime Armando Osorio Muñoz: 16
+- Ricardo Andre Pool Cen: 18
+- Luis Gilberto Dzib Pech: 17
+- Katherine Aolani Ordoñez Pacheco: 17
+- Perla Noemi Canche Uicab: 16
+- Carlos Alberto Espadas Canul: 16
+- Jaime Armando Osorio Muñoz: 16
 
 Cada actividad tendrá su propia rubrica de evaluación, mientras que en Github será colocado al principio del documento, en los pizarrones digitales sera incluido con los cuadros verdes con el respectivo nombre.
 
