@@ -13,12 +13,13 @@ RNF_006: No se pueden eliminar roles sin haberse revocado de todos sus integrant
 RNF_007: No se puede modificar la linea del tiempo del repositorio.
 RNF_008: El programa mantiene dos respaldos de la informacion de los usuarios.
 
-Re
-Requerimientos sin funciones 
-Nuestro pseurepositorio debera poder soportar 5000 solicitudes por segundo.
-Podra soportar un monumento de carga de trabajo
-Los datos deneran estar cifrados o que cuenten con alguna seguridad
-El pseurepositorio debera ser compatible con cualquier navegador Web
-Debera de funcionar en cualquier sistema operativo que se requiere
-Debera de contar con algun plan de recuperación por alguna falla.
-El tiempo de respuesta debe ser adecuado para su funcionamiento
+
+Requerimientos No Funcionales
+El sistema debera de tener algun cifrado para sus datos.
+El sistema contara con un respaldo de repositorios.
+El tiempo de respuesta debe ser adecuado para su funcionamiento.
+El sistema debera de aguantar el crecimiento repentino de usuarios.
+El sistema debera de estar disponible cuando se requiera de este.
+El tiempo de respuesta del sistema debe de ser rapida.
+El sistema contara con multiples idiomas para un mejor manejo.
+El sistema contara con con Fecha Y Hora para los diferentes usuarios.
