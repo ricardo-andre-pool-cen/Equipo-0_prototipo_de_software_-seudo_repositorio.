@@ -48,10 +48,10 @@ INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITA
 ---------- | ------------ | --------------------------- | ---------------------------------------
 Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
 Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/18 | - | -
-Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/18 | - | -
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/18 | - | -
-Perla Noemi Canche Uicab | Total=0/100, Individual=0/18 | - | -
+Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
+Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
+Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
+Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
 
 ## GESTION DEL PROCESO:
 
@@ -145,10 +145,10 @@ MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER 
 ---------- | ------------ | --------------------------- | ---------------------------------------
 Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
 Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/18 | - | -
-Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/18 | - | -
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/18 | - | -
-Perla Noemi Canche Uicab | Total=0/100, Individual=0/18 | - | -
+Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
+Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
+Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
+Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
 
 ## PROCESS MANAGMENT:
 
