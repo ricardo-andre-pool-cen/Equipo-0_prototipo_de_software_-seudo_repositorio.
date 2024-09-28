@@ -1,9 +1,10 @@
 ## RUBRICA DE EVALUACION:
 Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
-Ricardo Andre Pool Cen | 4
+Ricardo Andre Pool Cen | 3
+Luis Gilberto Dzib Pech | 2
 
-Enlace al pizarron digital generado para esta actividad: https://www.canva.com/design/DAGQTmG5ue4/VfLVsRs1A57pY0PaGZR-DA/view?utm_content=DAGQTmG5ue4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQTmG5ue4/VfLVsRs1A57pY0PaGZR-DA/view?utm_content=DAGQTmG5ue4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL: (
 
@@ -11,13 +12,14 @@ Enlace al pizarron digital generado para esta actividad: https://www.canva.com/d
 
 ### ASI ES COMO TRABAJA EL EQUIPO#0: (
 
-Después de revisar la rubrica para la primera entrega, notamos que cada punto parecia necesitar algun URL de evidencia, es decir, como si cada punto fuera una actividad, sin embargo, en vez de realizar 16 actividades, tomamos las categorías en las que ya tiene cada punto de evaluación para crear una actividad, es decir, realizaremos un total de 5 actividades para la primera entrega, que engloban las caracteristicas solicitadas en la rubrica:
+Después de revisar la rubrica para la primera entrega, notamos que cada punto parecia necesitar algun URL de evidencia, es decir, como si cada punto fuera una actividad, sin embargo, en vez de realizar 16 actividades, tomamos las categorías en las que ya tiene cada punto de evaluación para crear una actividad, es decir, realizaremos un total de 6 actividades para la primera entrega, que engloban las caracteristicas solicitadas en la rubrica:
 
 - Act#1_Descripcion del proyecto
 - Act#2_Administracion
 - Act#3_Requisitos funcionales
 - Act#4_Requisitos no funcionales
 - Act#5_Presentacion
+- Act#6_Competencias
 ) , (
 ### UNA HERRAMIENTA A LA MANO: CANVA:
 
@@ -47,13 +49,14 @@ Se pretende que sea utilizado principalmente por los estudiantes de Secundaria, 
 
 ### THIS IS HOW TEAM#0 WORKS: (
 
-After a while of reading the rubric for the first deliver, we noticed that every point seemed to need a URL evidence, like if every point were an activity, however, instead of assigning sixteen activities, we took the categories, where there was already each evaluation point for it, to create the activities, it means that we will make a total of five activities por the first deliver, which contain all the characteristics needed in the rubric:
+After a while of reading the rubric for the first deliver, we noticed that every point seemed to need a URL evidence, like if every point were an activity, however, instead of assigning sixteen activities, we took the categories, where there was already each evaluation point for it, to create the activities, it means that we will make a total of six activities for the first deliver, which contain all the characteristics needed in the rubric:
 
 - Act#1_Proyect description.
 - Act#2_Managment.
 - Act#3_Functional requirements.
 - Act#4_Nonfunctional requirements.
 - Act#5_Presentation
+- Act#6_Competencies
 ) , (
 ### A TOOL AT HAND: CANVA;:
 

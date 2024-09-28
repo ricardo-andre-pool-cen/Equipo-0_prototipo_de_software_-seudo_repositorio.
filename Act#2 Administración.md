@@ -2,9 +2,9 @@
 
 Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
-Ricardo Andre Pool Cen | 5
+Ricardo Andre Pool Cen | 6
 
-Enlace al pizarron digital generado para esta actividad: https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL:
 
@@ -16,36 +16,38 @@ Para medir la contribucion inidivual de cada integrante del equipo, usaremos un 
 
 **6 x 16 = 96**
 
-Para solventar los 4 puntos faltantes, Decidimos asignarle dos puntos extras al líder y uno extra a dos integrantes. Entonces, la división de puntos de participación queda de esta manera, cada integrante debera cumplir con su cantidad asignada:
+Para solventar los 4 puntos faltantes, Decidimos asignarle dos puntos extras al líder y a un integrante. Entonces, la división de puntos de participación queda de esta manera, cada integrante debera cumplir con su cantidad asignada:
 
-Ricardo Andre Pool Cen: 18
-Luis Gilberto Dzib Pech: 17
-Katherine Aolani Ordoñez Pacheco: 17
-Perla Noemi Canche Uicab: 16
-Carlos Alberto Espadas Canul: 16
-Jaime Armando Osorio Muñoz: 16
+- Ricardo Andre Pool Cen: 18
+- Luis Gilberto Dzib Pech: 18
+- Katherine Aolani Ordoñez Pacheco: 16
+- Perla Noemi Canche Uicab: 16
+- Carlos Alberto Espadas Canul: 16
+- Jaime Armando Osorio Muñoz: 16
 
-Cada actividad tendrá su propia rubrica de evaluación, mientras que en Github será colocado al principio del documento, en los pizarrones digitales sera incluido con los cuadros verdes con el respectivo nombre.
-
-Ahi se registraran los integrantes que participaron mas los puntos de los que se hacen acreedores, al igual que cada parte de la actividad en Github estara encerrada con llaves que separan los contenidos para que sea apreciable en que partes participo un integrante y cuantos puntos acreditó por ello, en los pizarrones digitales se incluirá de la forma en que una notita azul este insertada a lado de la parte de la actividad
-
-Ante cualquier incidente que provoque que un integrante no pueda cumplir su mínimo de puntos, se les asignara a otro integrante y se justificara la desigualdad del integrante, por lo que la tabla de puntos puede cambiar y se publicara otra tabla “actual” que se modifique por estos incidentes.
+Cada actividad tendrá su propia rubrica de evaluación, aqui se coloca al principio del documento en formato de tabla, y muestra los integrantes que participaron en el desarrollo de la actividad mas los puntos que acreditaron, posteriormente se dispone del enlace al pizarron digital de la actividad, que adjunta una grafica que permite visualizar mejor la organizacion de los colaboradores, con flujo de la actividad y codigos de color.
 
 ### METRICA DE CONTRIBUCION POR ACTIVIDAD:
 
 ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON POR CONTRIBUYENTE
 --------- | ---------------------- | -------------- | -------------------------------------------
-#1_Descripcion del proyecto | 10/100 | Ricardo Andre Pool Cen | 4
-#2_Administracion | 5/100 | Ricardo Andre Pool Cen | 5
-#3_Requisitos Funcionales | 30/100 | - | 0
-#4_Requisitos no funcionales | 30/100 | - | 0
-#5_Presentacion | 25/100 | - | 0
+#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 0
+#2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 4, 4
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 4, 4
+#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
 
 ### METRICA DE CONTRIBUCION POR CONTRIBUYENTE:
 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100,Individual:9/18 | #1_Descripcion del proyecto, #2_Administracion | 4, 5
+Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
+Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
+Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
+Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
+Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
+Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
 
 ## GESTION DEL PROCESO:
 
@@ -109,34 +111,36 @@ In order to measure the individual contribution of every member of the team, we 
 
 In order to complete those four last points, we decided to assigne two more points to the leader and one more for two members. So, the participation points division sets in this way, every member must reach their assigned amount:
 
-Ricardo Andre Pool Cen: 18
-Luis Gilberto Dzib Pech: 17
-Katherine Aolani Ordoñez Pacheco: 17
-Perla Noemi Canche Uicab: 16
-Carlos Alberto Espadas Canul: 16
-Jaime Armando Osorio Muñoz: 16
+- Ricardo Andre Pool Cen: 18
+- Luis Gilberto Dzib Pech: 18
+- Katherine Aolani Ordoñez Pacheco: 16
+- Perla Noemi Canche Uicab: 16
+- Carlos Alberto Espadas Canul: 16
+- Jaime Armando Osorio Muñoz: 16
 
-Every activity is going to have its own evaluation rubric, while in Github its going to be posted at the top of the file, in the digital boards its going to be included with the green squares with the name:
-
-There, the members who contributed to the activity and the points they get are going to be registered, every part of the activity in Github is going to be inside some parenthesis that separate the content for it to be appreciable in which parts a member worked on and how much points got, in the digital boards is going to be included in the way of blue notes on the side of the part of the activity:
-
-If any accident prevents a member from contributing to his minimum points, his missing points will be assigned to another member and it will be justified the inequality of the affected member, so the minimum points for each member can change and another board will be posted modified with some changes if an accident reaches to happen.
+Every activity will have its own evaluation rubric, which is placed at the beginning of the document in table format. It shows the members who participated in the development of the activity along with the points they earned. Following that, there is a link to the digital board for the activity, which includes a graphic that allows a better visualization of the collaborator's organization, with the activity flow and color-coded sections.
 
 ### CONTRIBUTION METRIC PER ACTIVITY:
 
 ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 -------- | --------------------- | ------------ | ------------------------------
-#1_Proyect description | 10/100 | Ricardo Andre Pool Cen | 4
-#2_Managment | 5/100 | Ricardo Andre Pool Cen | 5
-#3_Functional Requirements | 30/100 | - | 0
-#4_Nonfunctional Requirements | 30/100 | - | 0
-#5_Presentation | 25/100 | - | 0
+#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 0
+#2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 4, 4
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 4, 4
+#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
 
 ### CONTRIBUTION METRIC PER CONTRIBUTOR:
 
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100,Individual:9/18 | #1_Project description, #2_Managment | 4, 5
+Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
+Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
+Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
+Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
+Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
+Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
 
 ## PROCESS MANAGMENT:
 
