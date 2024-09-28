@@ -1,9 +1,10 @@
 ## RUBRICA DE EVALUACION:
 Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
-Ricardo Andre Pool Cen | 4
+Ricardo Andre Pool Cen | 3
+Luis Gilberto Dzib Pech | 2
 
-Enlace al pizarron digital generado para esta actividad: https://www.canva.com/design/DAGQTmG5ue4/VfLVsRs1A57pY0PaGZR-DA/view?utm_content=DAGQTmG5ue4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQTmG5ue4/VfLVsRs1A57pY0PaGZR-DA/view?utm_content=DAGQTmG5ue4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL: (
 
