@@ -14,36 +14,23 @@ RF_007: Los roles con el permiso otorgado pueden añadir tareas en un repositori
 RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pagina configurables.
 
 Requerimientos Funcionales
-Los usuario podran crear su usuario y contraseña para acceder a su cuEnta Personal.
 Los usuario podran recuperar su contraseña mediante un proceso seguro.
-El pseurepositorio cuenta con una barra de busqueda para buscar el archivo o repositorio que se requiera.
+El Seudo-Repositorio cuenta con una barra de busqueda para buscar el archivo o repositorio que se requiera.
 Los usuarios podran Crear, Eliminar y actualizar cualquier Repositorio.
-Los usuarios podran invitar a otros usuarios a colaborar con el proyecto y gestionar los permisos de acceso.
-Los usuarios podran acceder a un historial de cambios y revertir algun proceso que se requiera.
-El pseudorepositorio cuanta con una interfaz amigable.
-El pseudorepositorio debe de mantener los datos seguros y eficientes.
-El pseudorepositoro contara con un sistema de notificaciones para avisar a los usuarios, estos podran  ser enviados por Gmail o SMS.
-El usuario podra exportar diferentes formartos (PDF. EXCEL, ETC).
-El usuario podra cambiar su foto de perfil y colocar alguna descripcion sobre él
-El usuario podra descargar archivos del repositorio
-El usuario podra colocar comentarios en los repositorios
-El usuario podra  recibir notificaciones
-Los usuarios podran etiquetar los archivos para mayor facilidad de busquedad
-Los usuarios podran clasidicar los archivcos en diferentes categorias
-Los usarios podran proporcionar permisos de acceso 
-El sistema podra conectarse con algun servicio externo como Google Drive o Dropbox
-El sistema podra registrar la actividad de cada usuario
-El sistema soportara un lenguaje Bilingue 
-Los usuarios podran visualizar los archivos antes de descargar
-El sistema contara con mecanismos de respaldo y recuperacion de datos
-El sistema debe de monitoriar el sistema y enviar una alerta en caso de algun problema
-El sistema tendra como herramienta Microsoft teams
-El sistema podra soportar la carga y descarga de archivos grandes
-Los usuarios podran colaborar en tiempo real en los documentos
-Podra gestionar miltiples proyectos
-El sistema podra soportar archivos como Videos y audios
-Los administradores podran gestionar permisos y usuarios
-El sistema podra soportar dos formas de autenticacion de dos factores para una mayor seguridad.
+Los Integrantes con el permiso ocupado mendiante roles asignados pueden invitar a otros usurios a formar parte del repositorio.
+Los integrantes con el permiso ocupado mendiante roles asignados podran revertir cambios a las rama principal del repositorio
+El usuario con algun rol asigando puede  revertir el proceso de borrado de algun repositorio.
+El usuario con algun rol asignado puede modificar el titulo de un repositporio.
+El Seudo-Repositorio debe de mantener los datos seguros y eficientes.
+EL repositorio envia una notificacion a sus integrantes de cualquier cambio en la rama principal
+El usuario puede activar la opción de notificaciones o silenciarlo.
+El usuario puede  exportar diferentes formartos (PDF. EXCEL, ETC).
+El usuario puede colocar comentarios en los repositorios
+Los usuarios pueden etiquetar los archivos para mayor facilidad de busquedad.
+El usuario puede adaptar el idioma del repositorio.(Ingles, Español).
+El seudo-Repositorio puede  registrar la actividad de cada usuario.
+Los usuarios pueden interactuar en tiempo real  en el pizzaron virtual.
+
 
 
 Requerimientos Funcionales Fuera del Repositorio
@@ -62,11 +49,6 @@ El usuario puede colocar sus debilidades
 El usuario puede colocar su pais de origen.
 El usuario puede colocar los lugares donde haya trabajado.
 El sistema por medio del Unbording ayuda al usuario a modificar su perfil
-
-Requerimientos no Funcionales fuera del repositorio
-El sistema 
-
-
 
 El Onbording no se puede omitir 
 
