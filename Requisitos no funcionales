@@ -1,14 +1,14 @@
 Aqui se encuentran mis requisitos no funcionales
 
-1-El sistema permtira que los usuarios adjunten cualquier tipo de archivo en el repositorio
-2-Las versiones del pseudorepositorio estaran disponibles para que el usuario decida la version que mas le agrade
-3-Los archivos que se editen en el repositorio tendran un autoguardado automatico constante
-4-En el sistema el usuario podra tener la opcion de personalizar su repositorio en el apartado de configuraciones
-5-Al seleccionar una funcion del pseudorepositorio al repositorio su tiempo de respuesta debe ser el menor posible
-6-El sistema aplicara los cambios de las configuraciones al reiniciar el pseudorepositorio
-7-En la sección de configuración habrá una función que permitirá deshacer los cambios realizados en la configuración del pseudorepositorio.
-8-El sistema establecera limitaciones para el usuario en el numero de solicitudes, para evitar excesos de solicitudes
-9-Tendra un sistema de redundacia para que proteja la continuidad del servicio en caso de que algun componente falle
-10-El sistema enviara automaticamente un mensaje a todos los usuarios cuando un miembro cambie la informacion de una rama
-11-El sistema permitira acceder a una copia local de sus repositorios y trabajar sin conexión, sincronizando automáticamente los cambios una vez que se vuelvan a conectar a la red
-12-El sistema tendra un proceso te autenticacion al inicio de sesion del usuario
+1-El sistema cumplira con las normativas de proteccion de datos 
+2-Los usuarios con el permiso otorgado mediante un rol asigando pueden deshacer cualquier cambio en el repositorio.
+3-El sistema permite la edicion de una rama personal por varios usuarios al mismo tiempo.
+4-El sistema tendra un limite de almacenamiento para el repositorio.
+5-El sistema permitira solamente la visualizacion de repositorios cuando el usuario no tenga una cuenta registrada
+6-El programa registra los datos configurados basicos del repositorio en linea del tiempo del mismo.
+7-El sistema contara con un apartado de reportes, donde los miembros podran informar detalles o defectos para mejorar
+8-El usuario solo pueden sugerir tres solicitudes a la vez.
+9-El usuario podra agragarle contaseña a una rama y a un repositorio para su privacidad
+10-El sistema enviara una notificacion a todos los usuarios cuando un integrante cambie la informacion de una rama.
+11- Los cambios de una rama solo se aplicaran cuando el usuario seleccione la opcion de commit changes, de lo contrario no se guardara
+12-El sistema no mostrara su informacion a los demas integrantes si el usuario asi lo desea
