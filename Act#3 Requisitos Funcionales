@@ -15,31 +15,31 @@ RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pag
 
 Requerimientos Funcionales
 Los usuario podran recuperar su contraseña mediante un proceso seguro.
-El Seudo-Repositorio contara con una barra de busqueda para buscar el archivo o repositorio que se requiera.
-Los usuarios pueden  CrearYa  y actualizar cualquier Repositorio.
-Los Integrantes con el permiso ocupado mendiante roles asignados pueden invitar a otros usurios a formar parte del repositorio.
-Los integrantes con el permiso ocupado mendiante roles asignados podran revertir cambios a las rama principal del repositorio
-El usuario con algun rol asigando puede  revertir el proceso de borrado de algun repositorio.
-El usuario con algun rol asignado puede modificar el titulo de un repositporio.
-El Seudo-Repositorio debe de mantener los datos seguros y eficientes.
+Los usurios pueden encontrar cualquier archivo dentro de un repositorio mediante una opcion de búsqueda.
+Los usuarios pueden  Crear y actualizar cualquier Repositorio.
+Los Integrantes con el permiso ortogado mendiante roles asignados pueden invitar a otros usurios a formar parte del repositorio.
+Los integrantes con el permiso ortogado mendiante roles asignados podran revertir cambios a las rama principal del repositorio
+Los usuario con el permiso otorgado mediante un rol asigando pueden modificar los datos basicos del repositorio.
+Los usuarios pueden cargar archivos multimedia en los repositorios
 EL repositorio envia una notificacion a sus integrantes de cualquier cambio en la rama principal
-El usuario puede activar la opción de notificaciones o silenciarlo.
-El usuario puede  exportar diferentes formartos (PDF. EXCEL, ETC).
-El usuario puede colocar comentarios en los repositorios
+Los usuarios contaran con un soporte tecnico de ayuda.
+El usuario externos pueden pueden colocar comentarios sobre otros repositorios de caracter publico.
+El Seudo-Repositorio contara con la recuperación de archivos borrados 
 Los usuarios pueden etiquetar los archivos para mayor facilidad de busquedad.
-El usuario puede adaptar el idioma del repositorio.(Ingles, Español).
-El seudo-Repositorio puede  registrar la actividad de cada usuario.
-Los usuarios pueden interactuar en tiempo real  en el pizzaron virtual.
-
+El usuario puede modificar el idioma con el que lee el programa: Ingles o Español.
+Los integrantes pueden modificar los datos de sus pizzarones personales.
+Los usuarios con algun rol asigado puede compartir archivos a otros repositorios.
+Los usuarios pueden crear carpetas y subcarpetas en sus repositorios
 
 
 Requerimientos Funcionales Fuera del Repositorio
 El usuario contara con una guia de Unbording para configurar el perfil
-El usuario puede colocar una foto de perfil o Avatar
+El usuario puede  cambiar su foto de perfil.
+El usuario puede definir sus gustos personales en una seccion dedicada dentro del perfil.
 El usuario puede colocar los años de experiencia trajando
-El usuario puede colocar las tecnologias sabe utilizar.
-El usuario puede colocar su edad
-El usuario puede colocar sus Habilidades
+El usuario puede colocar las tecnologias que sabe utilizar.
+El usuario puede modoficar su edad en una seccion dentro de su perfil
+El usuario puede colocar sus Habilidades que ha adquirido en una seccion dedicada dentro del perfil
 La guia de estilo onboarding proporcionada por el sistema no se puede omitir durante su ejecucion.
 
 
