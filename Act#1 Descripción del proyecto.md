@@ -56,7 +56,7 @@ Este programa se pretende ser utilizado por personas que:
 - Esten involucradas en un proyecto que requiera esencial documentacion o archivos
 - No esten aprendiendo una herramienta mas profesional como Github
 
-**PRIORITARIOS**: *Estudiantes de Secundaria que prefieran perfeccionar el seguimiento de sus tareas.*
+**PRIORITARIOS**: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
 **SECUNDARIOS**: *Estudiantes de Universidad que necesiten tener un control y registro sobre sus actividades.*
 **NO MENOS IMPORTANTES**: *Publico interesado que encuentre una manera de usar el seudo-repositorio para sus deberes.*
   
@@ -109,6 +109,6 @@ This system is pretended to be used by people who:
 - Are involved in development of projects that need essencial documentation
 - Are not learning another more professional tool such as Github
 
-**PRIORITIES**: *mid-school students who prefer to improve the monitoring of their activities.*
+**PRIORITIES**: *mid and high-school students who prefer to improve the monitoring of their activities.*
 **SECONDARIES**: *University students who need to have control and record over their responsabilities*
 **NO LESS IMPORTANT**: *Interested public who finds a way to use the pseudo-repository for their tasks.*
