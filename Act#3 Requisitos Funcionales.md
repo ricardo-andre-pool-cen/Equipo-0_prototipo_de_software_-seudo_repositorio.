@@ -1,8 +1,8 @@
 ## RUBRICA DE EVALUACION:
 Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
-Carlos Alberto Espadas Canul | 4
-Katherine Aolani Ordóñez Pacheco | 4
+Carlos Alberto Espadas Canul | 2
+Katherine Aolani Ordóñez Pacheco | 2
 
 ## REDACCION DE MANERA CLASICA:
 
