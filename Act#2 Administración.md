@@ -25,11 +25,7 @@ Para solventar los 4 puntos faltantes, Decidimos asignarle dos puntos extras al 
 - Carlos Alberto Espadas Canul: 16
 - Jaime Armando Osorio Muñoz: 16
 
-Cada actividad tendrá su propia rubrica de evaluación, mientras que en Github será colocado al principio del documento, en los pizarrones digitales sera incluido con los cuadros verdes con el respectivo nombre.
-
-Ahi se registraran los integrantes que participaron mas los puntos de los que se hacen acreedores, al igual que cada parte de la actividad en Github estara encerrada con llaves que separan los contenidos para que sea apreciable en que partes participo un integrante y cuantos puntos acreditó por ello, en los pizarrones digitales se incluirá de la forma en que una notita azul este insertada a lado de la parte de la actividad
-
-Ante cualquier incidente que provoque que un integrante no pueda cumplir su mínimo de puntos, se les asignara a otro integrante y se justificara la desigualdad del integrante, por lo que la tabla de puntos puede cambiar y se publicara otra tabla “actual” que se modifique por estos incidentes.
+Cada actividad tendrá su propia rubrica de evaluación, aqui se coloca al principio del documento en formato de tabla, y muestra los integrantes que participaron en el desarrollo de la actividad mas los puntos que acreditaron, posteriormente se dispone del enlace al pizarron digital de la actividad, que adjunta una grafica que permite visualizar mejor la organizacion de los colaboradores, con flujo de la actividad y codigos de color.
 
 ### METRICA DE CONTRIBUCION POR ACTIVIDAD:
 
@@ -122,11 +118,7 @@ In order to complete those four last points, we decided to assigne two more poin
 - Carlos Alberto Espadas Canul: 16
 - Jaime Armando Osorio Muñoz: 16
 
-Every activity is going to have its own evaluation rubric, while in Github its going to be posted at the top of the file, in the digital boards its going to be included with the green squares with the name:
-
-There, the members who contributed to the activity and the points they get are going to be registered, every part of the activity in Github is going to be inside some parenthesis that separate the content for it to be appreciable in which parts a member worked on and how much points got, in the digital boards is going to be included in the way of blue notes on the side of the part of the activity:
-
-If any accident prevents a member from contributing to his minimum points, his missing points will be assigned to another member and it will be justified the inequality of the affected member, so the minimum points for each member can change and another board will be posted modified with some changes if an accident reaches to happen.
+Every activity will have its own evaluation rubric, which is placed at the beginning of the document in table format. It shows the members who participated in the development of the activity along with the points they earned. Following that, there is a link to the digital board for the activity, which includes a graphic that allows a better visualization of the collaborator's organization, with the activity flow and color-coded sections.
 
 ### CONTRIBUTION METRIC PER ACTIVITY:
 
