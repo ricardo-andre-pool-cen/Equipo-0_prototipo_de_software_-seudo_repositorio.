@@ -31,9 +31,9 @@ Cada actividad tendrá su propia rubrica de evaluación, aqui se coloca al princ
 
 ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON POR CONTRIBUYENTE
 --------- | ---------------------- | -------------- | -------------------------------------------
-#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 0
+#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 4, 4
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 2, 2
 #4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 4, 4
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
 #6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
@@ -43,11 +43,11 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
 Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
-Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
-Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
-Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
+Luis Gilberto Dzib Pech | Total=2/100, Individual=2/18 | #1_Descripcion del proyecto | 2
+Carlos Alberto Espadas Canul | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
+Katherine Aolani Ordóñez Pacheco | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
+Jaime Armando Osório Muñoz | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
+Perla Noemi Canche Uicab | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
 
 ## GESTION DEL PROCESO:
 
@@ -124,10 +124,10 @@ Every activity will have its own evaluation rubric, which is placed at the begin
 
 ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 -------- | --------------------- | ------------ | ------------------------------
-#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 0
+#1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 4, 4
-#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 4, 4
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 2, 2
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 2, 2
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
 #6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
 
@@ -136,11 +136,11 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
 Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
-Luis Gilberto Dzib Pech | Total=0/100, Individual=0/18 | - | -
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | - | -
-Katherine Aolani Ordóñez Pacheco | Total=0/100, Individual=0/16 | - | -
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | - | -
-Perla Noemi Canche Uicab | Total=0/100, Individual=0/16 | - | -
+Luis Gilberto Dzib Pech | Total=2/100, Individual=2/18 | #1_Descripcion del proyecto | 2
+Carlos Alberto Espadas Canul | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
+Katherine Aolani Ordóñez Pacheco | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
+Jaime Armando Osório Muñoz | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
+Perla Noemi Canche Uicab | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
 
 ## PROCESS MANAGMENT:
 
