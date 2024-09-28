@@ -15,8 +15,8 @@ RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pag
 
 Requerimientos Funcionales
 Los usuario podran recuperar su contraseña mediante un proceso seguro.
-El Seudo-Repositorio cuenta con una barra de busqueda para buscar el archivo o repositorio que se requiera.
-Los usuarios podran Crear, Eliminar y actualizar cualquier Repositorio.
+El Seudo-Repositorio contara con una barra de busqueda para buscar el archivo o repositorio que se requiera.
+Los usuarios pueden  CrearYa  y actualizar cualquier Repositorio.
 Los Integrantes con el permiso ocupado mendiante roles asignados pueden invitar a otros usurios a formar parte del repositorio.
 Los integrantes con el permiso ocupado mendiante roles asignados podran revertir cambios a las rama principal del repositorio
 El usuario con algun rol asigando puede  revertir el proceso de borrado de algun repositorio.
@@ -34,23 +34,13 @@ Los usuarios pueden interactuar en tiempo real  en el pizzaron virtual.
 
 
 Requerimientos Funcionales Fuera del Repositorio
-El usuario contara con un Unbording para configurar el perfil
+El usuario contara con una guia de Unbording para configurar el perfil
 El usuario puede colocar una foto de perfil o Avatar
 El usuario puede colocar los años de experiencia trajando
-El usuario puede colocar en que rama se destaca.
-El usuario puede colocar el lugar donde estudio
-El usuario puede colocar sus Hobbies y Gustos
-El usuario puede colocar su nivel de estudio alcanzado
-El usuario puede colocar su genero
+El usuario puede colocar las tecnologias sabe utilizar.
 El usuario puede colocar su edad
-El usuario puede colocar los idiomas que habla.
-El usuario puede colocar sus SkinCare
-El usuario puede colocar sus debilidades
-El usuario puede colocar su pais de origen.
-El usuario puede colocar los lugares donde haya trabajado.
-El sistema por medio del Unbording ayuda al usuario a modificar su perfil
-
-El Onbording no se puede omitir 
+El usuario puede colocar sus Habilidades
+La guia de estilo onboarding proporcionada por el sistema no se puede omitir durante su ejecucion.
 
 
 
