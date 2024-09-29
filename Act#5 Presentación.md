@@ -5,7 +5,7 @@ Participantes en esta actividad | Puntos que acreditan
 Ricardo Andre Pool Cen | 0
 Luis Gilberto Dzib Pech | 0
 
-## Guion de la presentacion:
+## GUION DE LA PRESENTACION
 ### Fase 1: Descripcion del proyecto
 - Problematica:
 los estudiantes de educacion media, cuando necesitan realizar una tarea de documentacion en equipo, llevan un seguimiento muy trivial y desordenado del proceso, si no es que no llevan seguimiento alguno, esta necesidad de orden tampoco es incitada por los mismos profesores, quienes solo evaluan el trabajo entregado. Si bien las herramientas digitales para la organizacion son gratuitas, es difcil aprender a usarlas correctamente si tienen muchas opciones de mas que la persona realmente no utilizara.
