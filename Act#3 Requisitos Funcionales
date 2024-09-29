@@ -44,9 +44,9 @@ La guia de estilo onboarding proporcionada por el sistema no se puede omitir dur
 
 Nuevos Requisitos Funcionales
 Sesión: Los usuarios deben crear una cuenta individual con una clave de acceso para acceder al programa.
-Onboarding: El usuario cpntará con un tutorial interactivo que guíe al usuario a través de las principales caracteristicas y funcionalidades del repositorio.
-Datos Basicos del repositorio: El usuario podrá crear, editar, o eliminar informacion en el repositorio , tendrá un apartado de busqueda y filtrado incluyendo , un control de versiones.
-Mensajeria Personal: Los usuarios tendrán un apartado de mensajería personal en el repositorio donde los usuarios podrán usar este sistema.
-Chat Personal: Es un apartado donde los los usuarios se podrán comunicar de manera directa y personal.
+Onboarding: En el primer ingreso, el sistema efectúa una breve guía interactiva de estilo "Onboarding" que ayuda al usuario en usar todas las funciones.
+Datos Basicos del repositorio: El usuario podrá crear, editar, o eliminar informacion en el repositorio , incluyendo su nombre una descripcion, diseño de pagina, Numero de  integrantes. 
+Mensajeria Personal: El repositorio tiene un apartado que incluye un chat dondé los usuarios podrán  comunicarse.
+Chat Personal: Los usuarios podrán enviarse mensajes privados entre perfiles.
 
 
