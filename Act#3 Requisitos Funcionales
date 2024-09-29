@@ -12,3 +12,8 @@ RF_005: El rol predeterminado de lider se puede otorgar a otro usuario, modifica
 RF_006: Los roles de un repositorio pueden ser renombrados, cargados con distintos permisos y otorgados o revocados a los integrantes del repositorio.
 RF_007: Los roles con el permiso otorgado pueden añadir tareas en un repositorio.
 RF_008: El repositorio puede tener nombre, descripcion, portada y diseño de pagina configurables.
+RF_009: El sistema debe mantener un registro permanente de todos los cambios realizados en el repositorio, permitiendo a los usuarios rastrear y auditar todas las modificaciones realizadas
+RF_10: Los usuarios pueden crear y gestionar pizarrones persoles, los cuales podrán ser de carácter privado o público.
+RF_11: Lo usuarios podrán crear y otorgar tareas dentro del repositorio, con fechas límite a cumplir
+RF_12: Los usuarios tienen un menú general en el cuál pueden visualizar demás repositorios de carácter público.
+RF_13: El usuario puede crear y gestinar roles para definir responsabilidades y funciones a los demás integrantes en el repositorio, 
