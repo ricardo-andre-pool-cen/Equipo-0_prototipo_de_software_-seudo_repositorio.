@@ -4,7 +4,7 @@ Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
 Ricardo Andre Pool Cen | 6
 
-[¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL:
 
