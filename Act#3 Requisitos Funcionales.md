@@ -34,16 +34,23 @@ RF_03: Los usuarios podrán modificar la informacion basica de un repositorio: n
 # INGLES:
 
 ## REDACTION BY CLASSIC METHOD:
-
-- RF_00: The program keeps a record of all the changes made by users in the repository in a "timeline" type graph
-- RF_00: Users will be able to create and manage branches of the repository where they can work on personal boards.
-- RF_00: Users will be able to create tasks in a repository with activation dates and delivery instructions.
-- RF_00: Users will be able to access a public menu where they can view other public repositories.
-- RF_00: The users can create and manage roles to define responsibilities and grant permissions to members of a repository.
+- RF_01: Users must create an individual account with a password to access the program.
+- RF_02: Upon first entry, the system will carry out a brief interactive "Onboarding" style guide.
+- RF_03: Users will be able to modify the basic information of a repository: name, description, members.
+- RF_04: The repository will have a section that includes a chat where users can send messages.
+- RF_05: Users will be able to send private messages between profiles.
+- RF_06: The program keeps a record of all the changes made by users in the repository in a "timeline" type graph
+- RF_07: Users will be able to create and manage branches of the repository where they can work on personal boards.
+- RF_08: Users will be able to create tasks in a repository with activation dates and delivery instructions.
+- RF_09: Users will be able to access a public menu where they can view other public repositories.
+- RF_10: The users can create and manage roles to define responsibilities and grant permissions to members of a repository.
 
 ## PRIORITIZATION TABLE:
 
 Must have | Could have | Won't have
 --------- | ---------- | ----------
-RF_00: The program keeps a record of all the changes made by users in the repository in a "timeline" type graph | RF_00: Users will be able to create tasks in a repository with activation dates and delivery instructions. | RF_00: Users will be able to access a public menu where they can view other public repositories.
-RF_00: Users will be able to create and manage branches of the repository where they can work on personal boards. | RF_00: The users can create and manage roles to define responsibilities and grant permissions to members of a repository.
+RF_06: The program keeps a record of all the changes made by users in the repository in a "timeline" type graph | RF_08: Users will be able to create tasks in a repository with activation dates and delivery instructions. | RF_09: Users will be able to access a public menu where they can view other public repositories.
+RF_07: Users will be able to create and manage branches of the repository where they can work on personal boards. | RF_10: The users can create and manage roles to define responsibilities and grant permissions to members of a repository. | RF_05: Users will be able to send private messages between profiles.
+RF_01: Users must create an individual account with a password to access the program. | RF_04: The repository will have a section that includes a chat where users can send messages.
+RF_02: Upon first entry, the system will carry out a brief interactive "Onboarding" style guide. | 
+RF_03: Users will be able to modify the basic information of a repository: name, description, members. | 
