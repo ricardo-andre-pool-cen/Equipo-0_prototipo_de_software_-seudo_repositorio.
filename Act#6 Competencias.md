@@ -7,20 +7,20 @@ Luis Gilberto Dzib Pech | 3
 
 ### Competecias Genericas:
 #### Esto debimos de haber aprendido:
-1. *Se comunica en español en forma oral y escrita es sus intervenciones profesionales y en sus vida personal, utilizando correctamente el idioma.
-2. Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
-3. Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.*
+1. *Se comunica en español en forma oral y escrita es sus intervenciones profesionales y en sus vida personal, utilizando correctamente el idioma.*
+2. *Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.*
+3. *Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.*
 
 #### Esto se aprendío: 
 
-1. Capacidad para colaborar en proyectos en línea.
-2. Habilidad para seguir y contribuir con repositorios profesionales (Github).
-3. Trabajo con el uso de ramas (branches) y solicitudes de revisión (pull requests).
-4. Capacidad para gestionar problemas y realizar seguimiento de ellos.
-5. Desarrollo en la comunicación de ideas.
-6. Desarrollo del uso correcto del lenguaje inglés para traducir contenidos.
-7. Respeto al comunicar ideas y respeto a las ideas ajenas.
-8. Trabajo en equipo.
+1. *Capacidad para colaborar en proyectos en línea.*
+2. *Habilidad para seguir y contribuir con repositorios profesionales (Github).*
+3. *Trabajo con el uso de ramas (branches) y solicitudes de revisión (pull requests).*
+4. *Capacidad para gestionar problemas y realizar seguimiento de ellos.*
+5. *Desarrollo en la comunicación de ideas.*
+6. *Desarrollo del uso correcto del lenguaje inglés para traducir contenidos.*
+7. *Respeto al comunicar ideas y respeto a las ideas ajenas.*
+8. *Trabajo en equipo.*
 
 #### Observaciones:
 
