@@ -52,19 +52,19 @@ La cuarta es exacta, se debió haber impulsado la toma de desiciones para el seg
 
 #### Esto se aprendió: 
 
-6. *Concepto oficial de la Ingenieria de Software*
-7. *El deber de un ingeniero de software*
-8. *Importancia del estudio individual*
-9. *Compromiso y voluntad por los temas*
-10. *Concepto de requisitos y artefactos*
-11. *Importancia de evaluar la fidelidad entre programas educativos con las mallas curriculares*
-12. *Concepto del diseño del software*
-13. *Fases de la construccion del software*
-14. *Agentes en la construccion del software*
-15. *Tipos de mantenimiento del software*
+1. *Concepto oficial de la Ingenieria de Software*
+2. *El deber de un ingeniero de software*
+3. *Importancia del estudio individual*
+4. *Compromiso y voluntad por los temas*
+5. *Concepto de requisitos y artefactos*
+6. *Importancia de evaluar la fidelidad entre programas educativos con las mallas curriculares*
+7. *Concepto del diseño del software*
+8. *Fases de la construccion del software*
+9. *Agentes en la construccion del software*
+10. *Tipos de mantenimiento del software*
 
 Observaciones:
 
-La competencia de la unidad I, se llevo a cabo mediante bastante investigacion en libros y fuentes confiables para poder comprender los contenidos y formar un propio concepto, ademas, se llevo a cabo la prueba de desempeño sobre comparar la UADY con otro programa y usar a la IEEE como intermediario, tambien sirvio para entender el rumbo de la Ingenieria de Software e investigar los conceptos y criticar hacera de las diferencias e igualdades. Podemos asegurar que esta herramienta de cumplió bien.
+La competencia de la unidad I, se llevo a cabo mediante bastante investigacion en libros y fuentes confiables para poder comprender los contenidos y formar un propio concepto, ademas, se llevo a cabo la prueba de desempeño sobre comparar la UADY con otro programa y usar a la IEEE como intermediario, tambien sirvio para entender el rumbo de la Ingenieria de Software e investigar los conceptos y criticar hacera de las diferencias e igualdades. Podemos asegurar que esta competencia de cumplió bien.
 
-la competencia de la unidad II, sugiere que el estudiante aprénda los conceptos y partes de los requisitos, el diseño, la construccion, las pruebas y el mantenimiento del software. Tuvimos que investigar bastante para definir y diferenciar los requisitos y poder redactar los nuestros en el repositoiro., ahora bien, aun son notables dudas acerca del proceso de vida del software, Hay contenido no memorizado pero importante, analizamos las partes de cada clase mediante investigacion, aunque no se haya cumplido al 100% la competencia, estuvo a punto de.
+la competencia de la unidad II, sugiere que el estudiante aprénda los conceptos y partes de los requisitos, el diseño, la construccion, las pruebas y el mantenimiento del software. Tuvimos que investigar bastante para definir y diferenciar los requisitos y poder redactar los nuestros en el repositoiro. Las clases aportaron excelentes conocimientos "extras" o ejemplos sobre la relevancia y estructura de esa parte del software, ahora bien, aun son notables dudas acerca del proceso de vida del software, Hay contenido no memorizado pero importante, analizamos las partes de cada clase mediante investigacion. Aunque no se haya cumplido al 100% la competencia, estuvo a punto de.
