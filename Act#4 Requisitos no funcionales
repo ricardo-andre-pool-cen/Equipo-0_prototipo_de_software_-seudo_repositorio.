@@ -1,15 +1,11 @@
-RNF_000: El sistema clona el repositorio en un archivo .txt
-RNF_000: En la eliminación de la cuenta no se recuperaran los repositorios que creo el usuario
-RNF_000: Las cuentas eliminadas se saldran de los repositorios que se unieron
-RNF_000: El sistema no puede tener más de dos bugs no reparados
-RNF_000: Debe tener un plan de recuperación ante desastres.
-RNF_000: El ingles es el idioma preterminado del sistema
-RNF_000: Debe soportar al menos dos idiomas diferentes.
-RNF_000: Los usuarios deben poder comentar sobre los cambios o versiones.
-RNF_000: El uso de un corrector ortográfico de forma automática en los comentarios
-RNF_000: Debe ofrecer capacidades offline para ciertas funcionalidades.
-RNF_000: Debe tener un sistema de recompensas para contribuir.
-RNF_000: Debe recibir actualizaciones regulares con nuevas funcionalidades
-RNF_000: Debe permitir interacciones en tiempo real.
-RNF_000: Tendra un sistema de reporte a comportamientos no sanos
-RNF_000: El tercer reporte es una eliminación de la cuenta
+Sesión
+EL proceso de inicio de sesión debe ser intuitivo y accesible, permitiendo a los usuarios acceder fácilmente y estas sesiones deben expirar después de un período de inactividad.
+Onboarding
+La plataforma de onboarding no debe de ser muy intrusivo en la interfaz y debe ofrecer soporte en los idiomas español e inglés.
+Datos básicos del repositorio
+El sistema debe guardar toda creación, edición o eliminación de información de un repositorio, guardar los filtros de búsqueda y todas las versiones que el usuario aplique.
+claro de comunicación.
+Menú público
+Las opciones del menú deben responder de manera inmediata y ser fácil de entender y usar.
+Chat personal
+El chat personal debe ser privado o visualizable solamente por los miembros del chat, para el remitente y el receptor.
