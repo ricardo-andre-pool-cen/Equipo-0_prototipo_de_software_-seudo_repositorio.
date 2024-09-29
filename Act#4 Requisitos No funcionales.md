@@ -4,6 +4,8 @@ Participantes en esta actividad | Puntos que acreditan
 Jaime Armando Osorio Muñoz | 0
 Perla Noemi Canche Uicab | 16
 
+## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJIscv10/2P2Gm7WZEXgv4oUBEeOabA/view?utm_content=DAGQJIscv10&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # ESPAÑOL:
 
 ## REDACCION DE MANERA CLASICA:
