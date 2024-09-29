@@ -35,5 +35,5 @@ RNF_00: La eliminación del lugar de trabajo o pizarrón personal solo se permit
 
 Must have | Could have | Won't Have
 --------- | ---------- | ----------
-- RNF_00: The timeline of a repository cannot be modified by users. | - RNF_00: Tasks cannot be deleted without having been previously marked as completed or cancelled. | - RNF_00: The user will only be able to view a limit of public repositories listed per page on the public menu.
-- RNF_00: - RNF_00: Removal of the workplace or personal board will only be allowed with the owner's authorization. | - RNF_00: A member will only be able to modify the repository if they have the required permissions through an assigned role |
+RNF_00: The timeline of a repository cannot be modified by users. | RNF_00: Tasks cannot be deleted without having been previously marked as completed or cancelled. | RNF_00: The user will only be able to view a limit of public repositories listed per page on the public menu.
+RNF_00: Removal of the workplace or personal board will only be allowed with the owner's authorization. | RNF_00: A member will only be able to modify the repository if they have the required permissions through an assigned role |
