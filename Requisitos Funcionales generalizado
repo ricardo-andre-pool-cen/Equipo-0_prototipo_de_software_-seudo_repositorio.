@@ -1,19 +1,12 @@
 Los 5 requisitos solicitados 
 
-RF1 (Roles)
-•	El rol de Administrador debe tener acceso a funcionalidades avanzadas para gestionar usuarios en el sistema, el cual podrá agregar usuarios al repositorio, al igual que el administrador debe poder editar la información de los usuarios existentes, incluyendo actualizaciones de rol y restablecimiento de contraseñas, también el Administrador debe poder eliminar usuarios del sistema, con una confirmación previa para evitar eliminaciones accidentales. El administrador debe tener acceso a una lista de todos los usuarios registrados, con la capacidad de buscar y filtrar por nombre o rol y lo más importante es que el administrador debe poder asignar y cambiar roles de los usuarios, permitiendo definir permisos específicos para cada rol.
-RF2 (Línea del tiempo)
-•	En cada repositorio se encuentra una línea del tiempo en la que el usuario puede visualizar lo realizado en el repositorio en orden cronológico, que incluirá el titulo del evento, una descripción y fecha/ hora específica, esta línea del tiempo no puede ser editada o eliminada por los miembros del repositorio.
-RF3 (Mensajería general)
-•	Los usuarios tendrán un apartado de mensajería general en el repositorio donde debe permitir a los usuarios redactar mensajes y enviarlos a otros usuarios dentro del repositorio, donde tendrán la opción de adjuntar archivos (imágenes, documentos, etc.) a los mensajes antes de enviarlos, al igual que el sistema debe permitir a los usuarios buscar mensajes a través de palabras clave, remitente, y fechas. Igualmente, el sistema debe presentar una interfaz de usuario intuitiva para la gestión de mensajes, incluyendo opciones para enviar, recibir y buscar mensajes.
-RF4 (Menú público)
-•	El repositorio contará con un menú público el cual debe ser accesible desde la página principal del repositorio. El menú debe permitir la navegación entre diferentes secciones del repositorio (ej. "Inicio", "Sobre nosotros", "Recursos", "Contactos"). El contenido de dicho menú debe contener:
-1.	Inicio: Enlace a la página de inicio del repositorio.
-2.	Sobre el Repositorio: Información sobre el propósito del repositorio y cómo se organiza.
-3.	Búsqueda Avanzada: Opción para buscar contenidos específicos dentro del repositorio.
-4.	Categorías o Temas: Listado de categorías o temas relevantes, que dirigen a los usuarios a colecciones específicas de recursos.
-5.	Documentación/Guías: Acceso a manuales, tutoriales o documentos de ayuda para usuarios.
-6.	Contacto: Formas de contactar al personal del repositorio, incluyendo correos electrónicos o formularios de contacto.
-El menú debe reflejar cualquier cambio en el contenido del repositorio, como nuevos recursos o secciones, también el menú debe ofrecer la opción de ser visualizado en los 2 idiomas, español e inglés.
-RF5 (Chat personal)
-•	El chat personal es un apartado donde dos usuarios se pueden comunicar de manera directa y personal, así que los usuarios deben poder iniciar nuevas conversaciones personales con otros usuarios del repositorio, los usuarios deben poder enviar mensajes de texto y recibir mensajes en tiempo real en la conversación seleccionada, también los usuarios deben poder buscar conversaciones previas mediante palabras clave o nombres de usuarios, los usuarios deben poder archivar o eliminar conversaciones que ya no deseen ver.
+RF1 (Linea del tiempo):
+El sistema debe mantener un registro permanente de todos los cambios realizados en el repositorio, permitiendo a los usuarios rastrear y auditar todas las modificaciones realizadas
+RFN2 (pizarrones personales):
+Los usuarios pueden crear y gestionar pizarrones persoles, los cuales podrán ser de carácter privado o público.
+RF3 (Tareas o asignaciones):
+Lo usuarios podrán crear y otorgar tareas dentro del repositorio, con fechas límite a cumplir
+RF4 (Menú público):
+Los usuarios tienen un menú general en el cuál pueden visualizar demás repositorios de carácter público.
+RF5 (Roles):
+El usuario puede crear y gestinar roles para definir responsabilidades y funciones a los demás integrantes en el repositorio, 
