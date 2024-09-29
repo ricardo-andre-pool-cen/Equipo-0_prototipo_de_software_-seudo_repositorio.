@@ -3,6 +3,8 @@ Participantes en esta actividad | Puntos que acreditan
 Ricardo Andre Pool Cen | 2
 Luis Gilberto Dzib Pech | 3
 
+# ESPAÑOL:
+
 ## Competecias Genericas:
 ### UNIDAD I: Evolucion de la Ingenieria de Software;:
 
@@ -68,3 +70,71 @@ Observaciones:
 La competencia de la unidad I, se llevo a cabo mediante bastante investigacion en libros y fuentes confiables para poder comprender los contenidos y formar un propio concepto, ademas, se llevo a cabo la prueba de desempeño sobre comparar la UADY con otro programa y usar a la IEEE como intermediario, tambien sirvio para entender el rumbo de la Ingenieria de Software e investigar los conceptos y criticar hacera de las diferencias e igualdades. Podemos asegurar que esta competencia de cumplió bien.
 
 la competencia de la unidad II, sugiere que el estudiante aprénda los conceptos y partes de los requisitos, el diseño, la construccion, las pruebas y el mantenimiento del software. Tuvimos que investigar bastante para definir y diferenciar los requisitos y poder redactar los nuestros en el repositoiro. Las clases aportaron excelentes conocimientos "extras" o ejemplos sobre la relevancia y estructura de esa parte del software, ahora bien, aun son notables dudas acerca del proceso de vida del software, Hay contenido no memorizado pero importante, analizamos las partes de cada clase mediante investigacion. Aunque no se haya cumplido al 100% la competencia, estuvo a punto de.
+
+# INGLES:
+
+## Generic Competencies:
+### UNIT I: Evolution of Software Engineering;:
+
+#### We must have learned this:
+1. *Communicates in Spanish orally and in writing in his professional interventions and in his personal life, using the language correctly.*
+2. *Uses ICT in his professional interventions and in his personal life in a relevant and responsible manner.*
+3. *Manages knowledge in his professional interventions and in his personal life, in a relevant manner.*
+
+### UNIT II: Software development areas;:
+
+#### We must have learned this:
+4. *Makes decisions in his professional and personal practice, responsibly.*
+
+#### We learned this: 
+
+1. *Ability to collaborate on online projects.*
+2. *Ability to follow and contribute to professional repositories (Github)*
+3. *Working with the use of branches and pull requests.*
+4. *Monitoring individual responsibility in the delivery of assignments or tasks.*
+5. *Ability to manage and track problems.*
+6. *Ability to gather information from reliable sources.*
+7. *Development in the communication of ideas.*
+8. *Development of the correct use of the English language to translate content.*
+9. *Respect when communicating ideas and respect for other people's ideas.*
+10. *Team work.*
+
+#### Observations:
+
+The first competition emphasizes being able to speak to each other with correct pronunciation and the expression of feelings and opinions effectively. This skill was greatly developed in the early stage of selecting ideas and even in the late stage of advising on writing. of requirements, without a doubt this skill was developed and improved, professional writing was also practiced when assigning names to commits and to write requirements, however, only for a few people who had the responsibility of communicating ideas and instructions, the The rest of the team did not have significant improvements in this skill other than for writing requirements and still requires advice, the competence was not met in all members due to the disorganization that can occur in the first weeks of the project.
+
+The second refers to the work tools that we have decided to use and Github, the members have a notable advance in the use of repositories from zero knowledge to modifying documents and then requesting their import into the main branch, however, the student He has not yet applied this knowledge to his advantage in his daily life. Would the student create a repository for his daily life? Research and creation of concept maps was carried out, but it is not evident that the student uses these tools for their routines and habits; this competence was not met as expected.
+
+The third can emphasize that the student must have divided his learning to apply the parts corresponding to professionalism and daily life, using the appropriate knowledge for effectiveness in both cases. Here it is evident that the members used their most professional skills to achieve the demands of the repository, however, they have not yet finished perfecting the application of their most professional skills to manage their work times and be responsible with instructions in conjunction with their daily tasks. If this is what the competition refers to, then it was not fully fulfilled.
+
+The fourth is exact, decision-making should have been promoted to monitor the project. In the administrative part, many decisions were made regarding changes and reforms in the work to deliver the best quality with our resources. This part was completed excellently. Also, decisions were made to manage the time between project work and daily tasks, however not all members were able to develop this skill as well as other members. This competency was the closest to being fulfilled in the entire team, but it was only approach. .
+
+## Specific competencies:
+### UNIT I: Evolution of Software Engineering;:
+
+#### We must have learned this:
+1.  *Analyzes the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, in accordance with the theoretical framework and curricular models of the discipline.*
+
+### UNIT II: Software development areas;:
+
+#### We must have learned this:
+2.  *Analyzes the main methods, techniques, procedures and good practices used in the requirements, design, coding, testing and maintenance phases of software, in accordance with the body of knowledge recognized by the discipline.*
+
+#### We learned this: 
+
+1. *Oficial concept of Software Engineering*
+2. *Software Engineer's duty*
+3. *Importance of individual study*
+4. *Commitment and will for the topics*
+5. *Requirements and artifacts concepts*
+6. *Importance of evaluating fidelity between educational programs with curricular frameworks*
+7. *Software design concept*
+8. *Software Construction phases*
+9. *Agents in Software construction*
+10. *Types of software maintenance*
+
+Observations:
+
+The competition of unit I, was carried out through a lot of research in books and reliable sources to be able to understand the contents and form one's own concept. In addition, the performance test was carried out on comparing the UADY program with another program and using The IEEE as an intermediary, also served to understand the direction of Software Engineering and investigate the concepts and criticize the differences and equalities. We can assure that this competition was carried out well.
+
+The competency of unit II suggests that the student learns the concepts and parts of the requirements, design, construction, testing and maintenance of software. We had to do a lot of research to define and differentiate the requirements and be able to write ours in the repository. The classes provided excellent "extra" knowledge or examples about the relevance and structure of that part of the software, however, there are still notable doubts about the life process of the software. There is content that is not memorized but important, we analyzed the parts of each class through investigation. Although the competition was not 100% complete, it was close to.
