@@ -36,13 +36,13 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 #3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 0, 10
 #4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 0, 16
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
-#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 3
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
 ### METRICA DE CONTRIBUCION POR CONTRIBUYENTE:
 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias | 3, 6, 0
+Ricardo Andre Pool Cen | Total=11/100, Individual=11/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias | 3, 6, 2
 Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto, Act#6_Competencias | 2, 3
 Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | #3_Requisitos Funcionales | 0
 Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
@@ -134,13 +134,13 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 #3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 0, 10
 #4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 0, 16
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
-#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 3
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
 ### CONTRIBUTION METRIC PER CONTRIBUTOR:
 
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion, #6_Competencias | 3, 6, 0
+Ricardo Andre Pool Cen | Total=11/100, Individual=11/18 | #1_Descripcion del proyecto, #2_Administracion, #6_Competencias | 3, 6, 2
 Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto | 2
 Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | #3_Requisitos Funcionales | 0
 Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
