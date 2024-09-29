@@ -4,7 +4,7 @@ Participantes en esta actividad | Puntos que acreditan
 Carlos Alberto Espadas Canul | 0
 Katherine Aolani Ordóñez Pacheco | 10
 
-### [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQpv6iqDs/lIdx7ZTMs_UdpQF9LQ0m8g/view?utm_content=DAGQpv6iqDs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQpv6iqDs/lIdx7ZTMs_UdpQF9LQ0m8g/view?utm_content=DAGQpv6iqDs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL:
 
