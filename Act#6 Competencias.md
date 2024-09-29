@@ -1,19 +1,29 @@
 Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
-Ricardo Andre Pool Cen | 0
-Luis Gilberto Dzib Pech | 0
+Ricardo Andre Pool Cen | 2
+Luis Gilberto Dzib Pech | 3
 
-Competencias genéricas:
+## UNIDAD I: Evolucion de la Ingenieria de Software:
 
-1. Conocimiento básico de uso de web y aplicaciones (como Word, teams o onedrive)
-2. Capacidad para colaborar en proyectos en línea.
-3. Habilidad para seguir y contribuir con repositorios.
-4. Familiaridad con el uso de ramas (branches) y solicitudes de revisión (pull requests).
-5. Capacidad para gestionar problemas y realizar seguimiento de ellos.
-6. Dominio en la comunicación de ideas.
-7. Dominio y uso correcto del lenguaje español o inglés.
-8. Ser respetuoso al comunicar ideas y respeto a las ideas ajenas.
-9. Trabajo en equipo.
+### Competecias Genericas:
+#### Esto debimos de haber aprendido:
+1. *Se comunica en español en forma oral y escrita es sus intervenciones profesionales y en sus vida personal, utilizando correctamente el idioma.
+2. Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+3. Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.*
+
+#### Esto se aprendío: 
+
+1. Capacidad para colaborar en proyectos en línea.
+2. Habilidad para seguir y contribuir con repositorios profesionales (Github).
+3. Trabajo con el uso de ramas (branches) y solicitudes de revisión (pull requests).
+4. Capacidad para gestionar problemas y realizar seguimiento de ellos.
+5. Desarrollo en la comunicación de ideas.
+6. Desarrollo del uso correcto del lenguaje inglés para traducir contenidos.
+7. Respeto al comunicar ideas y respeto a las ideas ajenas.
+8. Trabajo en equipo.
+
+#### Observaciones:
+
 
 
 Competencias específicas:
@@ -36,11 +46,13 @@ Competencias genéricas.
 1. Se comunica en español en forma oral y escrita es sus intervenciones profesionales y en sus vida personal, utilizando correctamente el idioma.
 2. Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
 3. Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
-4. Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
 5. Toma decisiones en su práctica profesional y personal, de manera responsable.
 
 Competencias específicas.
 
+Unidad I: Analiza la evolucion disciplinar de la Ingenieria de Software, así como las caracteristicas del profesionista vinculado con la misma, de acuerdo con el marco teorico y los modelos curriculares de la disciplina.
+
+Unidad II: Analiza los principales metodos, tecnicas, procedimientos y buenas practicas utilizados en las fases de requisitos, diseño, codificacion, pruebas y mantenimiento del software, de acuerdo con el cuerpo de conocimientos reconocidos por la disciplina.
 
 Comparativa de las competencias genéricas de nuestro proyecto y de FIS-UADY.
 
