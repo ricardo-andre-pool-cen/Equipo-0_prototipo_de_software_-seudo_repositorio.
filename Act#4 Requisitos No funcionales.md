@@ -13,6 +13,11 @@ Perla Noemi Canche Uicab | 16
 - RNF_00: Las tareas no podrán ser eliminadas sin haber sido previamente marcadas como completadas o canceladas.
 - RNF_00: El usuario solo podrá visualizar un limite de repositorios públicos en lista por pagina del menú publico.
 - RNF_00: Un integrante solo podrá modificar el repositorio si posee los permisos requeridos mediante un rol asignado.
+- RNF_00: El usuario solo dispondra de una cuenta para trabajar en repositorios y hablar con otros usuarios.
+- RNF_00: La plataforma de onboarding no es omitible
+- RNF_00: Los datos básicos solo se pueden modificar por el administrador del repositorio
+- RNF_00: No se pueden borrar los mensajes enviados en la mensajería general
+- RNF_00: El chat personal solo puede almacenar un de máximo 100 mensajes
 
 ## TABLA DE PRIORIZACION:
 
