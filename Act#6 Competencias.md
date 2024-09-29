@@ -3,6 +3,8 @@ Participantes en esta actividad | Puntos que acreditan
 Ricardo Andre Pool Cen | 2
 Luis Gilberto Dzib Pech | 3
 
+## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGSI8M763I/8Ml78ZQp8F-mFcimKXbsAA/view?utm_content=DAGSI8M763I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # ESPAÑOL:
 
 ## Competecias Genericas:
