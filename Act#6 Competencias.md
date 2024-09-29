@@ -16,7 +16,7 @@ Luis Gilberto Dzib Pech | 3
 #### Esto debimos de haber aprendido:
 4. *Toma desiciones en su practica profesional y personal, de manera responsable.*
 
-#### Esto se aprendío: 
+#### Esto se aprendió: 
 
 1. *Capacidad para colaborar en proyectos en línea.*
 2. *Habilidad para seguir y contribuir con repositorios profesionales (Github).*
@@ -50,7 +50,7 @@ La cuarta es exacta, se debió haber impulsado la toma de desiciones para el seg
 #### Esto debimos de haber aprendido:
 2.  *Analiza los principales metodos, tecnicas, procedimientos y buenas practicas utilizados en las fases de requisitos, diseño, codificacion, pruebas y mantenimiento del software, de acuerdo con el cuerpo de conocimientos reconocidos por la disciplina.*
 
-#### Esto se aprendío: 
+#### Esto se aprendió: 
 
 6. *Concepto oficial de la Ingenieria de Software*
 7. *El deber de un ingeniero de software*
@@ -58,19 +58,13 @@ La cuarta es exacta, se debió haber impulsado la toma de desiciones para el seg
 9. *Compromiso y voluntad por los temas*
 10. *Concepto de requisitos y artefactos*
 11. *Importancia de evaluar la fidelidad entre programas educativos con las mallas curriculares*
-12. **
+12. *Concepto del diseño del software*
+13. *Fases de la construccion del software*
+14. *Agentes en la construccion del software*
+15. *Tipos de mantenimiento del software*
 
+Observaciones:
 
+La competencia de la unidad I, se llevo a cabo mediante bastante investigacion en libros y fuentes confiables para poder comprender los contenidos y formar un propio concepto, ademas, se llevo a cabo la prueba de desempeño sobre comparar la UADY con otro programa y usar a la IEEE como intermediario, tambien sirvio para entender el rumbo de la Ingenieria de Software e investigar los conceptos y criticar hacera de las diferencias e igualdades. Podemos asegurar que esta herramienta de cumplió bien.
 
-
-
-1_ La competencia 7 genérica de nuestro proyecto nos habla del fomento de la comunicación en español de forma escrita,
-  al igual que el idioma inglés, y en la competencia genérica 6 nos habla de la comunicación, refiriéndose a la forma oral del lenguaje,
-  cumpliendo así nuestro proyecto con la primera competencia genérica de la FIS-UADY.
-2_ La competencia genérica 1 de nuestro proyecto al mencionar la web y aplicaciones, cumple con la competencia genérica 2 que ofrece la FIS-UADY.
-3_ Las competencias 2 y 8 genéricas de nuestro proyecto nos proporciona el campo de conocimiento de intervenciones en el profesional y laboral
-  de manera responsable, cumpliendo así esta competencia 3 genérica de la FIS-UADY.
-4_ La 4 competencia, aún no se ha aplicado hasta la unidad 5 de FIS.
-5_ Las competencias 2, 8 y 9 genéricas de nuestro proyecto cumple con implica la toma de decisiones en lo profesional y personal de manera responsable,
-  cumpliendo así esta competencia 5 genérica de FIS-UADY.
-
+la competencia de la unidad II, sugiere que el estudiante aprénda los conceptos y partes de los requisitos, el diseño, la construccion, las pruebas y el mantenimiento del software. Tuvimos que investigar bastante para definir y diferenciar los requisitos y poder redactar los nuestros en el repositoiro., ahora bien, aun son notables dudas acerca del proceso de vida del software, Hay contenido no memorizado pero importante, analizamos las partes de cada clase mediante investigacion, aunque no se haya cumplido al 100% la competencia, estuvo a punto de.
