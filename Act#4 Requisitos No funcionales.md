@@ -4,7 +4,7 @@ Participantes en esta actividad | Puntos que acreditan
 Jaime Armando Osorio Muñoz | 4
 Perla Noemi Canche Uicab | 16
 
-## REQUISITOS NO FUNCIONALES, REDACCION DE MANERA CLASICA:
+## REDACCION DE MANERA CLASICA:
 
 
 - RNF_00: La linea del tiempo de un repositorio no podrá ser modificada por los usuarios.
