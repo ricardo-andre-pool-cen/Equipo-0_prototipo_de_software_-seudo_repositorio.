@@ -3,13 +3,18 @@ Participantes en esta actividad | Puntos que acreditan
 Ricardo Andre Pool Cen | 2
 Luis Gilberto Dzib Pech | 3
 
-## UNIDAD I: Evolucion de la Ingenieria de Software:
+## Competecias Genericas:
+### UNIDAD I: Evolucion de la Ingenieria de Software:
 
-### Competecias Genericas:
 #### Esto debimos de haber aprendido:
 1. *Se comunica en español en forma oral y escrita es sus intervenciones profesionales y en sus vida personal, utilizando correctamente el idioma.*
 2. *Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.*
 3. *Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.*
+
+### UNIDAD II: Evolucion de la Ingenieria de Software:
+
+#### Esto debimos de haber aprendido:
+4. *Toma desiciones en su practica profesional y personal, de manera responsable.*
 
 #### Esto se aprendío: 
 
@@ -24,6 +29,13 @@ Luis Gilberto Dzib Pech | 3
 
 #### Observaciones:
 
+La primera competencia hace enfasis en el poder hablarse uno a otro con una correcta pronunciacion y la expresion de sentimientos de manera efectiva, esta habilidad se efectuo bastante en la etapa temprana de seleccion de ideas y hasta en la tardía de asesoramientos sobre la redaccion de requisitos, sin duda esta habilidad fue desarrollada y mejorada, sin embargo, solo para pocas personas que tuvieron la responsabilidad de comunicar ideas e instrucciones, el resto del equipo no tuvo mejoras significativas sobre esta habilidad y aun requiere de asesoramiento, la competencia no se cumplio en todos los integrantes debido a la desorganizacion que puede ocurrir en las primeras semanas del proyecto.
+
+La segunda se refiere a las herramientas de trabajo que hayamos decidido usar y Github, los integrantes poseen un notorio avance sobre el uso de repositorios desde el nulo conocimiento hasta modificacion de documentos para luego solicitar su importacion en la rama principal, sin embargo, el estudiante aun no aplica estos conocimientos a su favor para su vida diaria, ¿El estudiante crearía un repositorio para su vida diaria?. Se practicó investigacion y creacion de mapas conceptuales, pero no es evidente que el estudiante use estas herramientas para sus rutinas y habitos, esta competencia no se cumplio como se esperaba.
+
+La tercera puede hacer enfasis en que el estudiante debió de descomponer su aprendizaje para aplicar las partes correspondientes a la profesionalidad y a la vida diaria, usando los conocimientos adecuados para la efectividad en ambos casos, aqui es evidente que los integrantes usaron sus habilidades mas profesionales para cumplir con las demandas del repositorio, sin embargo, aun no terminaron de afinar la aplicacion de sus habilidades mas profesionales para administrar sus tiempos de trabajo y ser responsables con las instrucciones en conjunto con sus deberes diarios. Si a ello es a lo que se refiere la competencia, entonces no se terminó de cumplir.
+
+La cuarta
 
 
 Competencias específicas:
