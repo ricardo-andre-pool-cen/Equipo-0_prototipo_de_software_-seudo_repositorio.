@@ -33,8 +33,8 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 --------- | ---------------------- | -------------- | -------------------------------------------
 #1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 0, 10
-#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 0, 16
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco, Ricardo Andre Pool Cen | 10, 10, 12
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 16, 16
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
 #6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
@@ -42,11 +42,11 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=11/100, Individual=11/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias | 3, 6, 2
-Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto, Act#6_Competencias | 2, 3
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | #3_Requisitos Funcionales | 0
+Ricardo Andre Pool Cen | Total=23/100, Individual=23/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias, Act#3_Requisitos funcionales, Act#5_Presentacion | 3, 6, 2, 12, 0
+Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto, Act#6_Competencias, Act#5_Presentacion | 2, 3, 0
+Carlos Alberto Espadas Canul | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
 Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | #4_Requisitos No funcionales | 0
+Jaime Armando Osório Muñoz | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 Perla Noemi Canche Uicab | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 
 ## GESTION DEL PROCESO:
@@ -114,7 +114,7 @@ In order to measure the individual contribution of every member of the team, we 
 
 **6 x 16 = 96**
 
-In order to complete those four last points, we decided to assigne two more points to the leader and one more for two members. So, the participation points division sets in this way, every member must reach their assigned amount:
+In order to complete those four last points, we decided to assigne two more points to the leader and to one member. So, the participation points division sets in this way, every member must reach their assigned amount:
 
 - Ricardo Andre Pool Cen: 18
 - Luis Gilberto Dzib Pech: 18
@@ -131,8 +131,8 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 -------- | --------------------- | ------------ | ------------------------------
 #1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 0, 10
-#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 0, 16
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco, Ricardo Andre Pool Cen | 10, 10, 12
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 16, 16
 #5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
 #6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
@@ -140,11 +140,11 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=11/100, Individual=11/18 | #1_Descripcion del proyecto, #2_Administracion, #6_Competencias | 3, 6, 2
-Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto | 2
-Carlos Alberto Espadas Canul | Total=0/100, Individual=0/16 | #3_Requisitos Funcionales | 0
+Ricardo Andre Pool Cen | Total=23/100, Individual=23/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias, Act#3_Requisitos funcionales, Act#5_Presentacion | 3, 6, 2, 12, 0
+Luis Gilberto Dzib Pech | Total=5/100, Individual=5/18 | #1_Descripcion del proyecto, Act#6_Competencias, Act#5_Presentacion | 2, 3, 0
+Carlos Alberto Espadas Canul | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
 Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
-Jaime Armando Osório Muñoz | Total=0/100, Individual=0/16 | #4_Requisitos No funcionales | 16
+Jaime Armando Osório Muñoz | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 Perla Noemi Canche Uicab | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 
 ## PROCESS MANAGMENT:
