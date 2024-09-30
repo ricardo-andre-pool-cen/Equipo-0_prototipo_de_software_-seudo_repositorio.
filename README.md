@@ -58,36 +58,38 @@ Este programa se pretende ser utilizado por personas que:
 - Esten involucradas en un proyecto que requiera esencial documentacion o archivos
 - No esten aprendiendo una herramienta mas profesional como Github
 
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+
 #### PRIMARIOS: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
 
-Nombre: Gabriela.
-Genero: Mujer.
-Edad: 15 años.
-Ocupacion: Estudiante de 2do Año de Secundaria.
-Actitudes: interes por las Tecnologias de la informacion
-Aptitudes: aplica competencias de orden para manejar su tiempo y tareas
+- Nombre: Gabriela.
+- Genero: Mujer.
+- Edad: 15 años.
+- Ocupacion: Estudiante de 2do Año de Secundaria.
+- Actitudes: interes por las Tecnologias de la informacion
+- Aptitudes: aplica competencias de orden para manejar su tiempo y tareas
 
 **POSIBLE ESCENARIO**: *“Nos juntaron por equipos, en dos semanas tendremos una “mesa redonda” donde debatiremos sobre el consumo de las drogas, habra gente invitada, necesitamos desarrollar el programa de la sesion, redactar una introduccion, los argumentos, practicar la entonación, y seria bueno que tengamos una herramienta para depositar todos los avances, y que los demas integrantes puedan ver el trabajo de los otros para unir la estructura del debate”*
 
 #### SECUNDARIOS: *Estudiantes de Universidad que necesiten tener un control y registro sobre sus actividades.*
 
-Nombre: Mauro.
-Genero: Hombre.
-Edad: 18 años.
-Ocupacion: Estudiante de primer semestre de una licenciatura.
-Actitudes: Gestiona sus herramientas, respeta sus tiempos, tiene interes por tecnologias de la informacion.
-Aptitudes: Puede proyectar  a futuro actividades, planear y crear bocetos que conduzcan a una idea concreta.
+- Nombre: Mauro.
+- Genero: Hombre.
+- Edad: 18 años.
+- Ocupacion: Estudiante de primer semestre de una licenciatura.
+- Actitudes: Gestiona sus herramientas, respeta sus tiempos, tiene interes por tecnologias de la informacion.
+- Aptitudes: Puede proyectar  a futuro actividades, planear y crear bocetos que conduzcan a una idea concreta.
 
 **POSIBLE ESCENARIO**: *“Nos reunimos en equipos, el proyecto para el final de la unidad sera una presentacion de calidad profesional sobre la evolucion de las ideas del humano desde Grecia hasta la post-modernidad, se nos exige un diseño especialmente atractivo de contenidos, necesitamos una herramienta donde podamos construir la actividad pieza por pieza, comparando diseños e informacion, investigando y aportando cambios a algun ”cuerpo principal” del proyecto, nada mas.”*
 
 #### POTENCIALES: *Publico interesado que encuentre una manera de usar el seudo-repositorio para sus deberes.*
 
-Nombre: Javier.
-Genero: Hombre.
-Edad: 44 años.
-Ocupacion: Empleado en el control de informacion de una escuela.
-Actitudes: Se comunica con su equipo de trabajo y sus superiores, explica ideas efectivamente. 
-Aptitudes: Planea proyectos y los registra con datos exactos, hace uso efectivo de las tecnologias de la informacion.
+- Nombre: Javier.
+- Genero: Hombre.
+- Edad: 44 años.
+- Ocupacion: Empleado en el control de informacion de una escuela.
+- Actitudes: Se comunica con su equipo de trabajo y sus superiores, explica ideas efectivamente. 
+- Aptitudes: Planea proyectos y los registra con datos exactos, hace uso efectivo de las tecnologias de la informacion.
 
 **POSIBLE ESCENARIO**: *“Como la escuela organiza muchos eventos, se esta planeando la documentacion de estos en una herramienta que permita no solo depositar archivos de evidencia, sino poder plasmar de mejor manera las actividades, preparativos y materiales para realizar el evento, y podriamos ver el proceso desde la idea del evento hasta su finalizacion.”*
 
@@ -141,35 +143,37 @@ This system is pretended to be used by people who:
 - Are involved in development of projects that need essencial documentation
 - Are not learning another more professional tool such as Github
 
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+
 #### PRIMARY: *mid and high-school students who prefer to improve the monitoring of their tasks.*
 
-Name: Gabriela.
-Gender: Woman.
-Age: 15 years.
-Ocupation: 2nd Year High School Student.
-Attitudes: interest in information technologies
-Skills: applies order skills to manage time and tasks
+- Name: Gabriela.
+- Gender: Woman.
+- Age: 15 years.
+- Ocupation: 2nd Year High School Student.
+- Attitudes: interest in information technologies
+- Skills: applies order skills to manage time and tasks
 
 **POSSIBLE SCENARIO**: *“They put us together in teams, in two weeks we will have a “round table” where we will debate about drug consumism, there will be people invited, we need to develop the session program, write an introduction, the arguments, practice intonation, And it would be great if we had a tool to store all the progress, and for the other members to be able to see each other's work to unite the structure of the debate."*
 
 #### SECONDARY: *University students in their first semesters who need to have control and record over their activities.*
 
-Name: Mauro.
-Gender: Man.
-Age: 18 years.
-Occupation: First semester student of a degree.
-Attitudes: Manages his tools, respects his times, is interested in information technologies.
-Skills:Can project future activities, plan and create sketches that lead to a specific idea.
+- Name: Mauro.
+- Gender: Man.
+- Age: 18 years.
+- Occupation: First semester student of a degree.
+- Attitudes: Manages his tools, respects his times, is interested in information technologies.
+- Skills:Can project future activities, plan and create sketches that lead to a specific idea.
 
 **POSSIBLE SCENARIO**: *“We reunited in teams, the project for the end of the unit will be a professional quality presentation of the evolution of human ideas from Greece to post-modernity, we are required to have an especially attractive design of content, we need a tool where we can build the activity piece by piece, comparing designs and information, researching and making changes to some “main body” of the project, nothing more.”*
 
 #### POTENTIAL: *Interested public who finds a way to use the pseudo-repository for their work.*
 
-Name: Javier.
-Gender: Man.
-Age: 44 years.
-Occupation: Employee in information control of a school.
-Attitudes: Communicates with his work team and superiors, explains ideas effectively.
-Skills: Plans projects and records them with accurate data, makes effective use of information technologies.
+- Name: Javier.
+- Gender: Man.
+- Age: 44 years.
+- Occupation: Employee in information control of a school.
+- Attitudes: Communicates with his work team and superiors, explains ideas effectively.
+- Skills: Plans projects and records them with accurate data, makes effective use of information technologies.
 
 **POSSIBLE SCENARIO**: *“As the school organizes many events, the documentation of these is being planned to be worked in some tool that allows not only to deposit evidence files, but to be able to a better capture of the activities, preparations and materials to carry out the event, and we could see the process from the idea of ​​the event to its completion.”*
