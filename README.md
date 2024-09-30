@@ -58,10 +58,8 @@ Este programa se pretende ser utilizado por personas que:
 - Esten involucradas en un proyecto que requiera esencial documentacion o archivos
 - No esten aprendiendo una herramienta mas profesional como Github
 
-![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
-
 #### PRIMARIOS: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
-
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
 - Nombre: Gabriela.
 - Genero: Mujer.
 - Edad: 15 años.
