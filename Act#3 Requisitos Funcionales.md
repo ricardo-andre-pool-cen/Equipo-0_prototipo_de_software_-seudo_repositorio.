@@ -3,6 +3,7 @@ Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
 Carlos Alberto Espadas Canul | 10
 Katherine Aolani Ordóñez Pacheco | 10
+Ricardo Andre Pool Cen | 12
 
 ## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQpv6iqDs/lIdx7ZTMs_UdpQF9LQ0m8g/view?utm_content=DAGQpv6iqDs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
@@ -54,3 +55,5 @@ RF_07: Users will be able to create and manage branches of the repository where 
 RF_01: Users must create an individual account with a password to access the program. | RF_04: The repository will have a section that includes a chat where users can send messages.
 RF_02: Upon first entry, the system will carry out a brief interactive "Onboarding" style guide. | 
 RF_03: Users will be able to modify the basic information of a repository: name, description, members. | 
+
+## ¡Artefactos solo en el pizarron de Canva!
