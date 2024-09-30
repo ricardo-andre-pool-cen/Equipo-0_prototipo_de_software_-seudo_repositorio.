@@ -56,9 +56,39 @@ Este programa se pretende ser utilizado por personas que:
 - Esten involucradas en un proyecto que requiera esencial documentacion o archivos
 - No esten aprendiendo una herramienta mas profesional como Github
 
-**PRIORITARIOS**: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
-**SECUNDARIOS**: *Estudiantes de Universidad que necesiten tener un control y registro sobre sus actividades.*
-**NO MENOS IMPORTANTES**: *Publico interesado que encuentre una manera de usar el seudo-repositorio para sus deberes.*
+#### PRIMARIOS: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+- Nombre: Gabriela.
+- Genero: Mujer.
+- Edad: 15 años.
+- Ocupacion: Estudiante de 2do Año de Secundaria.
+- Actitudes: interes por las Tecnologias de la informacion
+- Aptitudes: aplica competencias de orden para manejar su tiempo y tareas
+
+**POSIBLE ESCENARIO**: *“Nos juntaron por equipos, en dos semanas tendremos una “mesa redonda” donde debatiremos sobre el consumo de las drogas, habra gente invitada, necesitamos desarrollar el programa de la sesion, redactar una introduccion, los argumentos, practicar la entonación, y seria bueno que tengamos una herramienta para depositar todos los avances, y que los demas integrantes puedan ver el trabajo de los otros para unir la estructura del debate”*
+
+#### SECUNDARIOS: *Estudiantes de Universidad que necesiten tener un control y registro sobre sus actividades.*
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
+- Nombre: Mauro.
+- Genero: Hombre.
+- Edad: 18 años.
+- Ocupacion: Estudiante de primer semestre de una licenciatura.
+- Actitudes: Gestiona sus herramientas, respeta sus tiempos, tiene interes por tecnologias de la informacion.
+- Aptitudes: Puede proyectar  a futuro actividades, planear y crear bocetos que conduzcan a una idea concreta.
+
+**POSIBLE ESCENARIO**: *“Nos reunimos en equipos, el proyecto para el final de la unidad sera una presentacion de calidad profesional sobre la evolucion de las ideas del humano desde Grecia hasta la post-modernidad, se nos exige un diseño especialmente atractivo de contenidos, necesitamos una herramienta donde podamos construir la actividad pieza por pieza, comparando diseños e informacion, investigando y aportando cambios a algun ”cuerpo principal” del proyecto, nada mas.”*
+
+#### POTENCIALES: *Publico interesado que encuentre una manera de usar el seudo-repositorio para sus deberes.*
+![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
+- Nombre: Javier.
+- Genero: Hombre.
+- Edad: 44 años.
+- Ocupacion: Empleado en el control de informacion de una escuela.
+- Actitudes: Se comunica con su equipo de trabajo y sus superiores, explica ideas efectivamente. 
+- Aptitudes: Planea proyectos y los registra con datos exactos, hace uso efectivo de las tecnologias de la informacion.
+
+**POSIBLE ESCENARIO**: *“Como la escuela organiza muchos eventos, se esta planeando la documentacion de estos en una herramienta que permita no solo depositar archivos de evidencia, sino poder plasmar de mejor manera las actividades, preparativos y materiales para realizar el evento, y podriamos ver el proceso desde la idea del evento hasta su finalizacion.”*
+
   
 # INGLES:
 
