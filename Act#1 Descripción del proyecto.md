@@ -139,6 +139,37 @@ This system is pretended to be used by people who:
 - Are involved in development of projects that need essencial documentation
 - Are not learning another more professional tool such as Github
 
-**PRIORITIES**: *mid and high-school students who prefer to improve the monitoring of their activities.*
-**SECONDARIES**: *University students who need to have control and record over their responsabilities*
-**NO LESS IMPORTANT**: *Interested public who finds a way to use the pseudo-repository for their tasks.*
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+
+#### PRIMARY: *mid and high-school students who prefer to improve the monitoring of their tasks.*
+
+- Name: Gabriela.
+- Gender: Woman.
+- Age: 15 years.
+- Ocupation: 2nd Year High School Student.
+- Attitudes: interest in information technologies
+- Skills: applies order skills to manage time and tasks
+
+**POSSIBLE SCENARIO**: *“They put us together in teams, in two weeks we will have a “round table” where we will debate about drug consumism, there will be people invited, we need to develop the session program, write an introduction, the arguments, practice intonation, And it would be great if we had a tool to store all the progress, and for the other members to be able to see each other's work to unite the structure of the debate."*
+
+#### SECONDARY: *University students in their first semesters who need to have control and record over their activities.*
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
+- Name: Mauro.
+- Gender: Man.
+- Age: 18 years.
+- Occupation: First semester student of a degree.
+- Attitudes: Manages his tools, respects his times, is interested in information technologies.
+- Skills:Can project future activities, plan and create sketches that lead to a specific idea.
+
+**POSSIBLE SCENARIO**: *“We reunited in teams, the project for the end of the unit will be a professional quality presentation of the evolution of human ideas from Greece to post-modernity, we are required to have an especially attractive design of content, we need a tool where we can build the activity piece by piece, comparing designs and information, researching and making changes to some “main body” of the project, nothing more.”*
+
+#### POTENTIAL: *Interested public who finds a way to use the pseudo-repository for their work.*
+![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
+- Name: Javier.
+- Gender: Man.
+- Age: 44 years.
+- Occupation: Employee in information control of a school.
+- Attitudes: Communicates with his work team and superiors, explains ideas effectively.
+- Skills: Plans projects and records them with accurate data, makes effective use of information technologies.
+
+**POSSIBLE SCENARIO**: *“As the school organizes many events, the documentation of these is being planned to be worked in some tool that allows not only to deposit evidence files, but to be able to a better capture of the activities, preparations and materials to carry out the event, and we could see the process from the idea of ​​the event to its completion.”*
