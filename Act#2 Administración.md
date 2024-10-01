@@ -4,7 +4,7 @@ Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
 Ricardo Andre Pool Cen | 6
 
-[¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## [¡Pizarron digital para esta actividad aqui!](https://www.canva.com/design/DAGQJDq5cA4/Kqq-Wze_dzdOZr2zDoVu6A/view?utm_content=DAGQJDq5cA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # ESPAÑOL:
 
@@ -33,21 +33,21 @@ ACTIVIDAD | VALOR PARA EL PROYECTO | CONTRIBUYENTES | PUNTOS QUE SE ACREDITARON 
 --------- | ---------------------- | -------------- | -------------------------------------------
 #1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 2, 2
-#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 4, 4
-#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
-#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco, Ricardo Andre Pool Cen | 10, 10, 12
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 16, 16
+#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 7, 13
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
 ### METRICA DE CONTRIBUCION POR CONTRIBUYENTE:
 
 INTEGRANTE | CONTRIBUCION | ACTIVIDADES DONDE PARTICIPO | PUNTOS QUE SE ACREDITARON POR ACTIVIDAD
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
-Luis Gilberto Dzib Pech | Total=2/100, Individual=2/18 | #1_Descripcion del proyecto | 2
-Carlos Alberto Espadas Canul | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
-Katherine Aolani Ordóñez Pacheco | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
-Jaime Armando Osório Muñoz | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
-Perla Noemi Canche Uicab | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
+Ricardo Andre Pool Cen | Total=30/100, Individual=30/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias, Act#3_Requisitos funcionales, Act#5_Presentacion | 3, 6, 2, 12, 7
+Luis Gilberto Dzib Pech | Total=18/100, Individual=18/18 | #1_Descripcion del proyecto, Act#6_Competencias, Act#5_Presentacion | 2, 3, 13
+Carlos Alberto Espadas Canul | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
+Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
+Jaime Armando Osório Muñoz | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
+Perla Noemi Canche Uicab | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 
 ## GESTION DEL PROCESO:
 
@@ -98,6 +98,18 @@ Al final se decidió trabajar en el software para la Ganadería porque se creyó
 
 - Martes 24: Casi todos los integrantes se reunieron a la biblioteca para reforzar su conocimiento de como hacer uso de los “requests” para entregar su contribución al proyecto, las dudas fueron aclaradas, se usaron requisitos de otro proyecto externo para tomar una guia de como construir los nuestros, y se construyeron los primeros 16 requisitos que pasaron a evaluacion.
 
+- Miércoles 25: Se siguió recuperando el contenido colocado en los pizarrones de canva hacia los documentos de Github, se avanzó en la traduccion de la informacion al Ingles. Se hizo mucho uso de la función de solicitudes y se aprendieron las características complejas de esta funcion, se llevaron a cabo retroalimentaciones de los avances de requisitos, donde se hizo evidente ayuda urgente para redactarlos. Ocurrieron atrasos para la nueva descripcion del proyecto, aun no era entregada por los responsables.
+
+- Jueves 26, urgencias y atrasos: surgió una preocupacion en los integrantes por incapacidad para trabajar los requisitos, inseguridad sobre una cantidad especifica y sobre las funciones del programa, se dieron retroalimentaciones, enseñanzas y guias grandes para arreglar la urgencia y capacitar a los integrantes para hacer requisitos, se efectuó un uso grande de las solicitudes. Se necesitó inclusión de todos los integrantes para definir la estrategia para redactar las actividades pendientes. Se desarrollaron mas ideas para las funciones del programa, despues de toda la ayuda proporcionada, algunos requisitos lograron integrarse al cuerpo.
+
+- Viernes 27: Se llevo a cabo una sesion en la biblioteca donde se aclararon dudas acerca de los requisitos y la idea del proyecto, hay mucha preocupacion sobre el “como” redactarlos, pero sobre todo el “que”,  se efectuó ardua practica para redactar requisitos y entender el proyecto pero ningun integrante pudo pasar su contenido de sus ramas al cuerpo principal de la primera entrega, la ambigüedad de la cantidad de requisitos se acabo y se demandaron 64 requisitos, donde cada integrante que le correspondian 16 puntos de contribucion ahora se le asignaron 16 requisitos a redactar para terminar su contribución, finalmente se otorgaron asignaciones fijas y obligatorias para todos los miembros, el trabajo quedo fijo y listo para efectuarse, pero con bastante tiempo perdido.
+
+- Sabado 28: 3 miembros asistieron a la platica presentada por estudiantes de quinto semestre que llevaron su proyecto de FIS al desarrollo real, con el fin de tomar asesoramiento de la materia como se suponía. Debido a los detalles que se notaron en la presentacion, y por los atrasos que ya teníamos, decidimos "re-comprimir" los requisitos que teniamos y bajamos la cantidad de 64 a 20, donde ahora 4 integrantes entregarian solo 5 requisitos junto a una priorizacion, y artefactos solo para funcionales. Se espera poder volver a descomponerlos durante la especificacion futura de cada uno, los requisitos que ya se habian trabajado no se deshecharon, solo quedaron guardados y sirvieron de practica para el equipo para aprender a redactarlos y entender la idea del proyecto. Aun con las horas contadas hubo ausencias de parte de algunos miembros y las reformas fueron para agilizar todo. Se empezo a redactar el guion del video.
+
+- Domingo 29: El trabajo arduo siguió, los requisitos no funcionales fueron completamente entregados y dos integrantes acreditaron su contribucion total, se terminó el guion del video, se siguió con la construccion de casos de uso para 4 requisitos funcionales, sin embargo, a un dia de entregar el proyecto se ausentaron los responsables de construirlos, por lo que se tuvo que usar mano sobre-contribuidora para completar la actividad y los dos integrantes no acreditaran contribucion completa.
+
+- Lunes 30, final: Los artefactos se terminaron de construir con el mejor formato que se pudo aplicar posterior a estudio e intuicion, se capturaron los datos finales en el repositorio y en los mapas de las actividades, se genero el video editado que se entregará y con ello se cerraba la primera entrega. Despues de esta experiencia, hay conciencia sobre las capacidades del equipo y proximamente se mejorarán las condiciones conociendo al equipo.
+
 
 # INGLES:
 
@@ -109,7 +121,7 @@ In order to measure the individual contribution of every member of the team, we 
 
 **6 x 16 = 96**
 
-In order to complete those four last points, we decided to assigne two more points to the leader and one more for two members. So, the participation points division sets in this way, every member must reach their assigned amount:
+In order to complete those four last points, we decided to assigne two more points to the leader and to one member. So, the participation points division sets in this way, every member must reach their assigned amount:
 
 - Ricardo Andre Pool Cen: 18
 - Luis Gilberto Dzib Pech: 18
@@ -126,21 +138,21 @@ ACTIVITY | VALUE FOR THE PROJECT | CONTRIBUTORS | POINTS CREDITED BY CONTRIBUTOR
 -------- | --------------------- | ------------ | ------------------------------
 #1_Descripcion del proyecto | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 3, 2
 #2_Administracion | 6/100 | Ricardo Andre Pool Cen | 6
-#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco | 2, 2
-#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 2, 2
-#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0
-#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 0, 0
+#3_Requisitos Funcionales | 32/100 | Carlos Alberto Espadas Canul, Katherine Aolani Ordóñez Pacheco, Ricardo Andre Pool Cen | 10, 10, 12
+#4_Requisitos no funcionales | 32/100 | Jaime Armando Osorio Muñoz, Perla Noemi Canche Uicab | 16, 16
+#5_Presentacion | 20/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 7, 13
+#6_Competencias | 5/100 | Ricardo Andre Pool Cen, Luis Gilberto Dzib Pech | 2, 3
 
 ### CONTRIBUTION METRIC PER CONTRIBUTOR:
 
 MEMBER | CONTRIBUCTION | ACTIVITIES WHERE HE PARTICIPATED | CREDITED POINTS PER ACTIVITY
 ---------- | ------------ | --------------------------- | ---------------------------------------
-Ricardo Andre Pool Cen | Total=9/100, Individual=9/18 | #1_Descripcion del proyecto, #2_Administracion | 3, 6
-Luis Gilberto Dzib Pech | Total=2/100, Individual=2/18 | #1_Descripcion del proyecto | 2
-Carlos Alberto Espadas Canul | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
-Katherine Aolani Ordóñez Pacheco | Total=2/100, Individual=2/16 | #3_Requisitos Funcionales | 2
-Jaime Armando Osório Muñoz | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
-Perla Noemi Canche Uicab | Total=4/100, Individual=4/16 | #4_Requisitos No funcionales | 4
+Ricardo Andre Pool Cen | Total=30/100, Individual=30/18 | #1_Descripcion del proyecto, #2_Administracion, Act#6_Competencias, Act#3_Requisitos funcionales, Act#5_Presentacion | 3, 6, 2, 12, 7
+Luis Gilberto Dzib Pech | Total=18/100, Individual=18/18 | #1_Descripcion del proyecto, Act#6_Competencias, Act#5_Presentacion | 2, 3, 13
+Carlos Alberto Espadas Canul | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
+Katherine Aolani Ordóñez Pacheco | Total=10/100, Individual=10/16 | #3_Requisitos Funcionales | 10
+Jaime Armando Osório Muñoz | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
+Perla Noemi Canche Uicab | Total=16/100, Individual=16/16 | #4_Requisitos No funcionales | 16
 
 ## PROCESS MANAGMENT:
 
@@ -187,3 +199,15 @@ In the end, it was decided to work on the animal managment software because it w
 - Monday 23rd: The writing of the value proposition, users and clients, and the requirements began, as well as the translation of the activity content into English. This has not yet been integrated into the repository.
 
 - Thuesday 24: Almost all members reunited at the library to reforce their knowledge  of how to make use of Github requests to deliver their contribution to the project, the concerns were cleared, we used another external project requirements to take a guide of how to build our’s, and we build the first sixteen requirements that went to evaluation.
+
+- Wednesday 25: The content placed on the canva boards continued to be recovered to the Github documents, more progress was made in the translation of the information into English. A lot of use was made of the requests function and the complex characteristics of this function were learned, feedback on the progress of requirements was carried out, where urgent help in writing them became evident. There were delays in the new description of the project; it had not yet been delivered by the people responsible
+
+- Thursday 26, emergencies and delays: a concern arose among the members due to the inability to work the requirements, insecurity about a specific amount and about the functions of the program, feedback, teachings and great guides were given to fix the urgency and train the members to writte requirements, a large use was made of the requests. Inclusion of all members was needed to define the strategy to write the pending activities. More ideas were developed for the functions of the program, after all the help provided, some requirements managed to be integrated into the body.
+
+- Friday 27: A session was held in the library where doubts about the requirements and the idea of ​​the project were clarified, there is a lot of concern about the “how” to write them, but above all the “what”, arduous practice was carried out to write the requirements and understand the project but no member could transfer their content from their branches to the main body of the first delivery, the ambiguity of the number of requirements was over and 64 requirements were defined, where each member who was assigned 16 contribution points must now writte 16 requirements to finish their contribution, finally fixed and obligatory assignments were granted for all members, the work was fixed and ready to be carried out, but with a lot of time lost.
+
+Saturday 28: 3 members attended the talk presented by fifth semester students who took their FIS project to real development, in order to take advice of the subject as supposed. Due to the details that were noticed in the presentation, and due to the delays that we already had, we decided to "re-compress" the requirements we had and lowered the number from 64 to 20, where now 4 members would deliver only 5 requirements together with a prioritization , and artifacts only for functionals. It is expected to be able to decompose them again during the future specification of each one, the requirements that had already been worked on were not deleted, they were only saved and served as practice for the team to learn how to write them and understand the idea of ​​the project. Even with the hours counted there were absences of some members and the reforms were to speed up everything. The video script began to be written.
+
+- Sunday 29: The hard work continued, the non-functional requirements were completely delivered and two members credited their total contribution, the video script was finished, the construction of use cases for 4 functional requirements started, however, when there was only one day to deliver the project, those responsible for building them were absent, so an over-contributing hand had to be used to complete the activity and the two members will not credit full contribution.
+
+- Monday 30, final: The artifacts were completed with the best format that could be applied after study and intuition, the final data was captured in the repository and in the activity maps, the edited video that will be delivered was generated. and with that the first delivery was closed. After this experience, there is awareness about the team's capabilities and conditions will soon be improved, knowing the team.
