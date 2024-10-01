@@ -2,8 +2,10 @@
 
 Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
-Ricardo Andre Pool Cen | 0
+Ricardo Andre Pool Cen | 7
 Luis Gilberto Dzib Pech | 13
+
+# [¡Enlace al video aqui!](https://drive.google.com/file/d/1TWRHUxDvv-q8218AakqmtPTr4tQcus0F/view?usp=sharing)
 
 ## GUION DE LA PRESENTACION.
 Buen día, nosotros somos el equipo 0, hoy les presentaré nuestro proyecto, pero primero iniciemos con la problemática.
@@ -35,4 +37,6 @@ Al momento de definir los requisitos hubo muchas dudas, que a lo largo del curso
  En nuestra priorización filtramos requisitos en: cuales debemos tener, los que podríamos tener y los que no vamos a tener, para aligerar la cantidad de requisitos que teníamos.
 
 - Artefactos.
-Al igual que hemos incluido artefactos que especifican los requisitos de nuestro proyecto, así que si quieres conocer más a detalle nuestro proyecto, puedes visitar nuestro repositorio, aquí en la descripción de nuestro video se adjunto el link de nuestro repsoitorio, conocerás nuestro modelo de trabajo, la descripción detallada y funcionalidad de nuestro proyecto, así que puedes visitarnos en nuestro repositorio donde conocerás nuestro modelo de Seudorepositorio.
+Al igual que hemos incluido artefactos que especifican los requisitos de nuestro proyecto
+
+así que si quieres conocer más a detalle nuestro proyecto, puedes visitar nuestro repositorio, aquí en la descripción de nuestro video se adjunto el link de nuestro repsoitorio, conocerás nuestro modelo de trabajo, la descripción detallada y funcionalidad de nuestro proyecto, así que puedes visitarnos en nuestro repositorio donde conocerás nuestro modelo de Seudorepositorio.
