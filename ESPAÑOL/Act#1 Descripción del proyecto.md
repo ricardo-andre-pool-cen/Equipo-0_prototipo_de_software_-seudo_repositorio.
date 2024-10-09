@@ -68,7 +68,7 @@ Este programa se pretende ser utilizado por personas que:
 **POSIBLE ESCENARIO**: *“Nos juntaron por equipos, en dos semanas tendremos una “mesa redonda” donde debatiremos sobre el consumo de las drogas, habra gente invitada, necesitamos desarrollar el programa de la sesion, redactar una introduccion, los argumentos, practicar la entonación, y seria bueno que tengamos una herramienta para depositar todos los avances, y que los demas integrantes puedan ver el trabajo de los otros para unir la estructura del debate”*
 
 #### SECUNDARIOS: *Estudiantes de Universidad que necesiten tener un control y registro sobre sus actividades.*
-![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
 - Nombre: Mauro.
 - Genero: Hombre.
 - Edad: 18 años.
@@ -153,7 +153,7 @@ This system is pretended to be used by people who:
 **POSSIBLE SCENARIO**: *“They put us together in teams, in two weeks we will have a “round table” where we will debate about drug consumism, there will be people invited, we need to develop the session program, write an introduction, the arguments, practice intonation, And it would be great if we had a tool to store all the progress, and for the other members to be able to see each other's work to unite the structure of the debate."*
 
 #### SECONDARY: *University students in their first semesters who need to have control and record over their activities.*
-![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20171238.png)
 - Name: Mauro.
 - Gender: Man.
 - Age: 18 years.
