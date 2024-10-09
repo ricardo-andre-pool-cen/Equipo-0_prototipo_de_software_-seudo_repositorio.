@@ -79,7 +79,7 @@ Este programa se pretende ser utilizado por personas que:
 **POSIBLE ESCENARIO**: *“Nos reunimos en equipos, el proyecto para el final de la unidad sera una presentacion de calidad profesional sobre la evolucion de las ideas del humano desde Grecia hasta la post-modernidad, se nos exige un diseño especialmente atractivo de contenidos, necesitamos una herramienta donde podamos construir la actividad pieza por pieza, comparando diseños e informacion, investigando y aportando cambios a algun ”cuerpo principal” del proyecto, nada mas.”*
 
 #### POTENCIALES: *Publico interesado que encuentre una manera de usar el seudo-repositorio para sus deberes.*
-![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
+![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
 - Nombre: Javier.
 - Genero: Hombre.
 - Edad: 44 años.
@@ -164,7 +164,7 @@ This system is pretended to be used by people who:
 **POSSIBLE SCENARIO**: *“We reunited in teams, the project for the end of the unit will be a professional quality presentation of the evolution of human ideas from Greece to post-modernity, we are required to have an especially attractive design of content, we need a tool where we can build the activity piece by piece, comparing designs and information, researching and making changes to some “main body” of the project, nothing more.”*
 
 #### POTENTIAL: *Interested public who finds a way to use the pseudo-repository for their work.*
-![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
+![usuario potencial](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20171443.png)
 - Name: Javier.
 - Gender: Man.
 - Age: 44 years.
