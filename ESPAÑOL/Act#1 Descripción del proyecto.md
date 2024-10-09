@@ -57,7 +57,7 @@ Este programa se pretende ser utilizado por personas que:
 - No esten aprendiendo una herramienta mas profesional como Github
 
 #### PRIMARIOS: *Estudiantes de Secundaria y Bachillerato que prefieran perfeccionar el seguimiento de sus tareas.*
-![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
 - Nombre: Gabriela.
 - Genero: Mujer.
 - Edad: 15 años.
@@ -139,7 +139,7 @@ This system is pretended to be used by people who:
 - Are involved in development of projects that need essencial documentation
 - Are not learning another more professional tool such as Github
 
-![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
+![usuario primario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials-Materiales/Captura%20de%20pantalla%202024-09-30%20170523.png)
 
 #### PRIMARY: *mid and high-school students who prefer to improve the monitoring of their tasks.*
 
