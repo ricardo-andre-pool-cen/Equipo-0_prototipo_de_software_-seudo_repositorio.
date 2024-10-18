@@ -62,8 +62,14 @@ Existen ciertas técnicas para hacer historias de usuario de manera corecta, est
 
  **Ejemplos de historia de usuario**
  
- "Como gestor, quiero poder administrar todos los trabajos que mi equipo hace para ayudarlos y corregirlos en caso de que haya errores"
+ "Como gestor, quiero poder administrar todos los trabajos que mi equipo hace para ayudarlos y corregirlos en caso de que haya errores".
  
- "Como compradora quiero encontrar mis artículos en secciones separadas para ser más rápida"
+ "Como compradora quiero encontrar mis artículos en secciones separadas para ser más rápida".
  
- "Como María quiero poder establecer un rango de precios para no sobrepasar mi presupuesto"
+ "Como María quiero poder establecer un rango de precios para no sobrepasar mi presupuesto".
+
+
+ Referencias: - YouTube. (n.d.). Youtu.Be. Retrieved October 18, 2024, from https://youtu.be/lU9oK5Ln7Rg 
+ : Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Retrieved October 18, 2024, from https://www.atlassian.com/es/agile/project-management/user-stories
+
+
