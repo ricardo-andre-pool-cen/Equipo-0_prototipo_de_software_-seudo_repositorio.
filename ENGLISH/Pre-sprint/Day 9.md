@@ -13,7 +13,7 @@
 ---
 **I´m working this:**
 
-- Organización y documentación en el repositorio
+- Organization and documentation in the repository
 
 ---
 **I´ll work this:**
