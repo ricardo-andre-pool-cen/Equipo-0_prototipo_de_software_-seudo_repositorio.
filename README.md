@@ -1,8 +1,10 @@
-# ENGLISH CONTENT
+# INDICE/INDEX
+
+## ENGLISH CONTENT
 
 ### Leader: *Ricardo Andre Pool Cen*
 
-### Members:
+### Members
 
 - *Luis Gilberto Dzib Pech*
 - *Katherine Aolani Ordoñez Pacheco*
@@ -10,12 +12,11 @@
 - *Perla Noemi Canche Uicab*
 - *Jaime Armando Osorio Muñoz*
 
-
-# CONTENIDO EN ESPAÑOL
+## CONTENIDO EN ESPAÑOL
 
 ### Líder: *Ricardo Andre Pool Cen*
 
-### Integrantes:
+### Integrantes
 
 - *Luis Gilberto Dzib Pech*
 - *Katherine Aolani Ordoñez Pacheco*
