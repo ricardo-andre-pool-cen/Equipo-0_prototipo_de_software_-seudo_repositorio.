@@ -2,7 +2,8 @@
 
 Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
-Ricardo Andre Pool Cen | 0
+Ricardo Andre Pool Cen | 1
+Jaime Armando Osorio Muñoz | 1
 
 ## NUEVOS ARTEFACTOS DE SCRUM
 
@@ -18,7 +19,28 @@ Se necesita de una guía especial para documentar el diagnostico, la cual dicta 
 - **¿Qué?** *(What)* *(Consecuencias)*: se prevéen las consecuencias si el problema no se resuelve, asi como los efectos que debería tener la posible solucion.
 
 La redacción de una declaracion del problema no es una plantilla, es precisamente escrito como una declaracion fluida y contínua.
+
 [Business Problem statement Examples. (s. f.). Scrum.org.](https://www.scrum.org/resources/business-problem-statement-examples)
+
+### Planificacion del Sprint
+
+> La planificación del sprint planea lo que se trabajara a futuro y el tiempo que tendra el equipo en el sprint
+
+La mejor manera de planificarlo es:
+
+- El valor que puede ser generado durante un Sprint.
+- Durante la planificación del Sprint se seleccionarán los elementos del Producto del "Backlog" que serán abordados.
+- Proyectar el trabajo necesario para alcanzar el objetivo.
+- Planificar con el fin de desarrollar un Incremento que satisfaga la Definición de Hecho
+
+Ejemplo:
+
+Evento | Inspección | Adaptación | Participantes | Tiempo
+------ | ---------- | ---------- | ------------- | ------
+Planificación del sprint |  Producto del "Backlog", Meta del Producto, Definición de Hecho | "Sprint Backlog", Meta del "Sprint" | Equipo #0 | De 4 horas a 1 semana
+
+Referencias:
+[Sprint Planning. (s. f.). Scrum.org.](https://www.scrum.org/learning-series/sprint-planning/)
 
 ## EL NUEVO PROCESO
 
@@ -77,7 +99,7 @@ En las carpetas de cada periodo se adjuntará:
 
 - **Bitacoras diarias (Dailys)**: Reportes de trabajo diarios de todos los integrantes mediante documentos en los días respectivos del proyecto (Día (numero)). Se usa la plantilla recomendada y se incluye una documentacion con enlaces a los "commits" que evidencian los avances realizados.
 - **Avances de las actividades**: una copia de los respectivos documentos que incluye la parte de cada actividad que se avanzó por periodo, no representa la actividad completa.
-- **README.md** es una lista de los dias trabajados, donde adjunta los reportes (Dailys) de cada integrante por Día, asi como los artefactos que se generaron.
+- **README.md*- es una lista de los dias trabajados, donde adjunta los reportes (Dailys) de cada integrante por Día, asi como los artefactos que se generaron.
 
 ### DECLARACIONES DE PROBLEMAS EN EL PROYECTO
 
