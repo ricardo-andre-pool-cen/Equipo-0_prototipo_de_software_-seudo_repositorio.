@@ -1,8 +1,0 @@
-Enlace al pizarron generado para esta actividad:
-https://www.canva.com/design/DAGQdZSTcDY/HYnIcSsqgOUo3Ea6Kvqyig/view?utm_content=DAGQdZSTcDY&utm_campaign=designshare&utm_medium=link&utm_source=editor
-Aqui estan mis requisitos
-Proteccion de la linea del tiempo_La gráfica que muestra los cambios hechos en el repositorio no podrá ser modificada por los usuarios.
-Seguridad de la pizzara personal_ La eliminación del lugar de trabajo o pizarrón personal solo se permitirá con la autorización del propietario.
-Restriccion de eliminacion de tareas_Las tareas no podrán ser eliminadas sin haber sido previamente marcadas como completadas o canceladas.
-Paginacion de repositorios publicos_ El usuario solo podrá visualizar un limite de repositorios públicos en lista por pagina del menú publico.
-Autorizacion de cambios por roles_ Un integrante solo podrá modificar el repositorio si posee los permisos requeridos mediante un rol asignado
